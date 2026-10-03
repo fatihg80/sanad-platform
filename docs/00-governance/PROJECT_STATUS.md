@@ -71,27 +71,22 @@ The repository deliberately distinguishes:
 
 ## Current Workstream
 
-The documentation foundation is now broad enough to support disciplined technical discovery.
+The pre-implementation documentation foundation is now substantially established.
 
-The next priority is to convert unresolved decisions into evidence-backed choices and pilot-ready specifications.
+The project can move into evidence-backed platform/vendor discovery, specialty-specific clinical design, pilot partner discovery, and implementation planning without losing traceability.
 
 ## Next Planned Work
 
-1. Define pilot specialty decision framework
-2. Define specialty-agnostic case-template specification
-3. Produce detailed professional-verification workflow
-4. Define response-time / SLA policy model
-5. Define notification policy and escalation model
-6. Define audit-event catalog
-7. Define data-retention schedule template
-8. Define pilot operational runbook
-9. Define user onboarding and training plan
-10. Define support model and service desk/runbook
-11. Define pilot acceptance/UAT plan
-12. Produce implementation backlog and issue structure
-13. Perform actual market/vendor research for Build vs Buy vs Partner
-14. Finalise hosting and data-residency decision after legal/privacy input
-15. Finalise technology stack ADRs after platform decision
+1. Define pilot specialty decision framework and specialty-specific template
+2. Perform actual market/vendor research for Build vs Buy vs Partner
+3. Define pilot partner/facility selection criteria
+4. Define evaluation protocol and minimum dataset
+5. Define legal/regulatory question register for counsel
+6. Define hosting/data-residency options for legal/privacy review
+7. Convert implementation backlog into GitHub issues after platform decision
+8. Finalise technology stack ADRs after Build/Buy/Partner decision
+9. Produce deployment architecture for the selected hosting/platform option
+10. Prepare pilot go-live checklist and launch governance pack
 
 ## Key Decisions Still Open
 
