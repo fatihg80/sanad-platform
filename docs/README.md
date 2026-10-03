@@ -8,6 +8,7 @@ This folder contains the working product, clinical, technical, security, governa
 - [Glossary](00-governance/GLOSSARY.md)
 - [Risk, Opportunity, and Stakeholder Analysis](00-governance/RISK_OPPORTUNITY_STAKEHOLDER_ANALYSIS.md)
 - [Decision and Change Governance](00-governance/DECISION_AND_CHANGE_GOVERNANCE.md)
+- [Documentation Changelog](00-governance/CHANGELOG.md)
 
 ## 01 Product
 
@@ -23,6 +24,9 @@ This folder contains the working product, clinical, technical, security, governa
 
 - [Clinical Workflow Specification](03-clinical/CLINICAL_WORKFLOW_SPECIFICATION.md)
 - [Clinical Safety Hazard Log](03-clinical/CLINICAL_SAFETY_HAZARD_LOG.md)
+- [Clinical Case Template Specification](03-clinical/CASE_TEMPLATE_SPECIFICATION.md)
+- [Professional Verification Workflow](03-clinical/PROFESSIONAL_VERIFICATION_WORKFLOW.md)
+- [Response Time and Escalation Policy Model](03-clinical/RESPONSE_TIME_AND_ESCALATION_POLICY_MODEL.md)
 
 ## 04 Architecture
 
@@ -36,6 +40,8 @@ This folder contains the working product, clinical, technical, security, governa
 - [Data Classification and Privacy Requirements](05-security/DATA_CLASSIFICATION_AND_PRIVACY_REQUIREMENTS.md)
 - [Threat Model](05-security/THREAT_MODEL.md)
 - [Security Architecture](05-security/SECURITY_ARCHITECTURE.md)
+- [Audit Event Catalog](05-security/AUDIT_EVENT_CATALOG.md)
+- [Data Retention Schedule Template](05-security/DATA_RETENTION_SCHEDULE_TEMPLATE.md)
 
 ## 06 Decisions
 
@@ -61,12 +67,18 @@ This folder contains the working product, clinical, technical, security, governa
 - [Observability and Monitoring](09-operations/OBSERVABILITY_AND_MONITORING.md)
 - [Backup and Disaster Recovery](09-operations/BACKUP_AND_DISASTER_RECOVERY.md)
 - [Security Incident Response](09-operations/SECURITY_INCIDENT_RESPONSE.md)
+- [Notification and Escalation Policy](09-operations/NOTIFICATION_AND_ESCALATION_POLICY.md)
+- [Pilot Operations Runbook](09-operations/PILOT_OPERATIONS_RUNBOOK.md)
+- [Pilot Support Model](09-operations/PILOT_SUPPORT_MODEL.md)
+- [Pilot Training and Onboarding](09-operations/PILOT_TRAINING_AND_ONBOARDING.md)
 
 ## 10 Delivery
 
 - [MVP Scope and Delivery Plan](10-delivery/MVP_SCOPE_AND_DELIVERY_PLAN.md)
 - [Product and Technical Roadmap](10-delivery/PRODUCT_AND_TECHNICAL_ROADMAP.md)
 - [Requirements Traceability Matrix](10-delivery/REQUIREMENTS_TRACEABILITY_MATRIX.md)
+- [Pilot UAT and Acceptance Plan](10-delivery/PILOT_UAT_AND_ACCEPTANCE_PLAN.md)
+- [Implementation Backlog](10-delivery/IMPLEMENTATION_BACKLOG.md)
 
 ## Document Status Principle
 
