@@ -52,3 +52,17 @@
 ### Governance
 - Added decision and change governance.
 - Preserved founding prospectus source notes separately from later engineering interpretation.
+
+
+### Clinical and operational specification expansion
+- Added specialty-agnostic clinical case template specification.
+- Added professional verification workflow.
+- Added response-time and escalation policy model.
+- Added notification and escalation policy.
+- Added audit event catalog.
+- Added data-retention schedule template.
+- Added pilot operations runbook.
+- Added pilot UAT and acceptance plan.
+- Added pilot support model.
+- Added pilot training and onboarding plan.
+- Added implementation backlog.
