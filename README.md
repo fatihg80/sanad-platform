@@ -4,7 +4,7 @@
 
 The project aims to create a structured, secure, and accountable way for local doctors to access specialist advice, particularly in settings where conflict, workforce displacement, and limited connectivity have reduced access to senior clinical expertise.
 
-> **Current stage:** Foundation, discovery, and pilot planning.  
+> **Current stage:** Foundation, discovery, architecture, and pilot planning.  
 > **Working model:** Doctor-to-doctor tele-expertise, not direct-to-patient telemedicine.
 
 ## Why Sanad
@@ -116,13 +116,13 @@ The system must be appropriate for environments where connectivity may be weak o
 - low-bandwidth operation;
 - safe offline capability where appropriate;
 - Arabic and English interfaces;
-- role-based access;
+- role and context-based access;
 - audit logs;
 - clinical image and document handling;
 - data protection;
 - simple workflows that minimise burden on clinicians.
 
-A formal **Build vs Buy vs Partner** assessment will be completed before the implementation approach is finalised.
+The repository currently contains a candidate custom-platform architecture and a formal **Build vs Buy vs Partner** assessment. These are working decisions, not final procurement or implementation commitments.
 
 ## Research and Evaluation
 
@@ -164,32 +164,71 @@ Potential stakeholders include:
 ```text
 docs/
 ├── 00-governance/
-│   └── Project governance, principles, terminology, status, and decision framework
+│   └── Status, terminology, risk analysis, change governance, changelog
 ├── 01-product/
-│   └── Product vision, scope, roadmap, and product requirements
+│   └── Product requirements
 ├── 02-requirements/
-│   └── Functional and non-functional system requirements
+│   └── SRS, access-control matrix, measurable NFRs
 ├── 03-clinical/
-│   └── Clinical workflows, governance, safety, and service models
+│   └── Clinical workflow and safety hazard log
 ├── 04-architecture/
-│   └── System architecture and technical design
+│   └── C4, domain model, data architecture, integration principles
 ├── 05-security/
-│   └── Security, privacy, threat modelling, and data protection
+│   └── Privacy, threat model, security architecture
 ├── 06-decisions/
-│   └── Architecture and product decision records
-└── 07-research/
-    └── Evidence, references, source material, and evaluation design
+│   └── Architecture Decision Records and Build/Buy/Partner assessment
+├── 07-research/
+│   └── Founding-source material and future evidence/evaluation work
+├── 08-engineering/
+│   └── Engineering standards, testing, CI/CD
+├── 09-operations/
+│   └── Monitoring, backup/DR, incident response
+└── 10-delivery/
+    └── MVP plan, roadmap, requirements traceability
 ```
+
+See [the documentation index](docs/README.md) for direct links to all current project documents.
 
 ## Current Documentation
 
+The repository now includes working drafts for:
+
 - Product Requirements Document (PRD)
 - Software Requirements Specification (SRS)
-- Risk, opportunity, stakeholder, and external-factor analysis
-- Project terminology and working definitions
-- Clinical workflow specification, in progress
-- Architecture and decision records, planned
-- Threat model and privacy architecture, planned
+- Clinical Workflow Specification
+- Clinical Safety Hazard Log
+- Access Control Matrix
+- Non-Functional Requirements Catalog
+- C4 Architecture
+- Domain Model
+- Data Architecture
+- API and Integration Principles
+- Data Classification and Privacy Requirements
+- Threat Model
+- Security Architecture
+- Architecture Decision Records
+- Engineering Standards
+- Test Strategy
+- CI/CD Strategy
+- Observability and Monitoring
+- Backup and Disaster Recovery
+- Security Incident Response
+- MVP Scope and Delivery Plan
+- Product and Technical Roadmap
+- Requirements Traceability Matrix
+
+## Documentation Discipline
+
+The founding prospectus is preserved separately from later product and engineering interpretation.
+
+Working documents identify whether statements are:
+
+- source-derived;
+- proposed;
+- approved;
+- engineering recommendations;
+- clinical/legal dependencies;
+- or still TBD.
 
 ## Important Notice
 
@@ -204,5 +243,5 @@ Clinical, legal, regulatory, data protection, professional, and patient-safety r
 **Project:** Sanad  
 **Primary model:** Provider-to-provider tele-expertise  
 **Geographic focus:** Sudan  
-**Stage:** Early-stage / Pilot planning  
-**Repository purpose:** Product, clinical, architecture, governance, security, and research documentation
+**Stage:** Early-stage / Pilot planning and architecture  
+**Repository purpose:** Product, clinical, architecture, governance, security, engineering, operations, research, and delivery documentation
