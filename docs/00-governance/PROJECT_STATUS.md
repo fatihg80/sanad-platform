@@ -77,16 +77,17 @@ The project can move into evidence-backed platform/vendor discovery, specialty-s
 
 ## Next Planned Work
 
-1. Define pilot specialty decision framework and specialty-specific template
-2. Perform actual market/vendor research for Build vs Buy vs Partner
-3. Define pilot partner/facility selection criteria
-4. Define evaluation protocol and minimum dataset
-5. Define legal/regulatory question register for counsel
-6. Define hosting/data-residency options for legal/privacy review
-7. Convert implementation backlog into GitHub issues after platform decision
-8. Finalise technology stack ADRs after Build/Buy/Partner decision
-9. Produce deployment architecture for the selected hosting/platform option
-10. Prepare pilot go-live checklist and launch governance pack
+1. Gather evidence and score candidate pilot specialties
+2. Run formal Intelehealth discovery/demo against the Sanad scenario
+3. Run CHT technical fit assessment focused on offline/privacy trade-offs
+4. Qualify one commercial comparator such as VSee
+5. Collect legal answers for the open regulatory question register
+6. Narrow hosting/data-residency options based on legal/privacy evidence
+7. Finalise Build vs Buy vs Partner ADR-001
+8. Convert implementation backlog into GitHub issues after platform decision
+9. Finalise technology-stack ADRs after platform decision
+10. Produce deployment architecture for the selected option
+11. Prepare pilot go-live checklist and launch governance pack
 
 ## Key Decisions Still Open
 
