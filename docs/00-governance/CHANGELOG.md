@@ -66,3 +66,15 @@
 - Added pilot support model.
 - Added pilot training and onboarding plan.
 - Added implementation backlog.
+
+
+### Pilot selection and external discovery
+- Added pilot specialty selection framework.
+- Added partner and facility selection criteria.
+- Added pilot evaluation protocol.
+- Added minimum evaluation dataset.
+- Added legal and regulatory question register.
+- Added hosting and data-residency options analysis.
+- Performed initial market discovery for Build vs Buy vs Partner.
+- Added vendor discovery questionnaire and Sanad-specific demonstration scenario.
+- Current discovery priority: Intelehealth first, CHT as strong offline-first alternative, VSee as commercial comparator, custom MVP retained as fallback.
