@@ -7,6 +7,8 @@ This folder contains the working product, clinical, technical, security, governa
 - [Project Status](00-governance/PROJECT_STATUS.md)
 - [Glossary](00-governance/GLOSSARY.md)
 - [Risk, Opportunity, and Stakeholder Analysis](00-governance/RISK_OPPORTUNITY_STAKEHOLDER_ANALYSIS.md)
+- [Partner and Facility Selection Criteria](00-governance/PARTNER_AND_FACILITY_SELECTION_CRITERIA.md)
+- [Legal and Regulatory Question Register](00-governance/LEGAL_AND_REGULATORY_QUESTION_REGISTER.md)
 - [Decision and Change Governance](00-governance/DECISION_AND_CHANGE_GOVERNANCE.md)
 - [Documentation Changelog](00-governance/CHANGELOG.md)
 
@@ -24,6 +26,7 @@ This folder contains the working product, clinical, technical, security, governa
 
 - [Clinical Workflow Specification](03-clinical/CLINICAL_WORKFLOW_SPECIFICATION.md)
 - [Clinical Safety Hazard Log](03-clinical/CLINICAL_SAFETY_HAZARD_LOG.md)
+- [Pilot Specialty Selection Framework](03-clinical/PILOT_SPECIALTY_SELECTION_FRAMEWORK.md)
 - [Clinical Case Template Specification](03-clinical/CASE_TEMPLATE_SPECIFICATION.md)
 - [Professional Verification Workflow](03-clinical/PROFESSIONAL_VERIFICATION_WORKFLOW.md)
 - [Response Time and Escalation Policy Model](03-clinical/RESPONSE_TIME_AND_ESCALATION_POLICY_MODEL.md)
@@ -42,6 +45,7 @@ This folder contains the working product, clinical, technical, security, governa
 - [Security Architecture](05-security/SECURITY_ARCHITECTURE.md)
 - [Audit Event Catalog](05-security/AUDIT_EVENT_CATALOG.md)
 - [Data Retention Schedule Template](05-security/DATA_RETENTION_SCHEDULE_TEMPLATE.md)
+- [Hosting and Data Residency Options](05-security/HOSTING_AND_DATA_RESIDENCY_OPTIONS.md)
 
 ## 06 Decisions
 
@@ -51,10 +55,14 @@ This folder contains the working product, clinical, technical, security, governa
 - [ADR-004: PostgreSQL](06-decisions/ADR-004-POSTGRESQL-PRIMARY-DATASTORE.md)
 - [ADR-005: Private Object Storage](06-decisions/ADR-005-PRIVATE-OBJECT-STORAGE.md)
 - [ADR-006: Contextual Authorisation](06-decisions/ADR-006-CONTEXTUAL-AUTHORIZATION.md)
+- [Build/Buy/Partner Market Discovery](06-decisions/BUILD_BUY_PARTNER_MARKET_DISCOVERY.md)
+- [Vendor Discovery Questionnaire](06-decisions/VENDOR_DISCOVERY_QUESTIONNAIRE.md)
 
 ## 07 Research and Source Material
 
 - [Founding Prospectus Source Notes](07-research/FOUNDING_PROSPECTUS_SOURCE_NOTES.md)
+- [Pilot Evaluation Protocol](07-research/PILOT_EVALUATION_PROTOCOL.md)
+- [Minimum Evaluation Dataset](07-research/MINIMUM_EVALUATION_DATASET.md)
 
 ## 08 Engineering
 
