@@ -6,7 +6,7 @@ Sanad
 
 ## Current Stage
 
-Foundation, discovery, architecture, security design, and pilot planning.
+Pre-implementation foundation substantially complete. The project is now positioned for evidence-backed external discovery, decision closure, and implementation readiness.
 
 ## Source of Truth
 
@@ -20,132 +20,169 @@ The repository deliberately distinguishes:
 - clinical/legal dependencies;
 - unresolved decisions.
 
-## Completed Work
+## Baseline Completed
 
-### Project and product
-- Founding prospectus reviewed and preserved as source notes
-- Project document classified as a founding prospectus / concept document, not an RFP and not a complete PRD
-- Product Requirements Document drafted
-- Software Requirements Specification drafted
-- Risk, opportunity, stakeholder, and external-factor analysis completed
-- Glossary and decision/change governance added
+### Product and scope
+- PRD
+- scope guardrails
+- MVP definition
+- roadmap
+- implementation backlog
+
+### Requirements
+- SRS
+- functional requirements
+- measurable NFR catalog
+- access-control matrix
+- requirements traceability matrix
 
 ### Clinical
-- Clinical Workflow Specification drafted
-- Case lifecycle and escalation model drafted
-- Initial Access Control Matrix drafted
-- Initial Clinical Safety Hazard Log drafted
+- clinical workflow
+- generic case-template specification
+- professional verification workflow
+- response-time/escalation policy model
+- clinical safety hazard log
+- pilot specialty selection framework
 
 ### Architecture
-- Candidate C4 architecture drafted
-- Domain model drafted
-- Data architecture drafted
-- API and integration principles drafted
-- Modular Monolith proposed for custom MVP
-- PostgreSQL proposed as primary relational datastore
-- Private object storage proposed for clinical files
-- Contextual authorisation proposed on top of RBAC
-- Limited offline strategy proposed for MVP
+- C4 candidate architecture
+- domain model
+- data architecture
+- API/integration principles
+- architecture decision records
 
 ### Security and privacy
-- Data classification and privacy requirements drafted
-- Threat model drafted
-- Security architecture drafted
-- Security incident-response plan drafted
+- data classification and privacy requirements
+- threat model
+- security architecture
+- data-flow inventory
+- audit-event catalog
+- DPIA template
+- retention template
+- hosting/data-residency options
 
 ### Engineering
-- Engineering standards drafted
-- Test strategy drafted
-- CI/CD strategy drafted
-- Measurable NFR catalog drafted
-- Requirements traceability matrix established
+- engineering standards
+- test strategy
+- CI/CD strategy
+- environment strategy
+- configuration management
 
 ### Operations
-- Observability and monitoring plan drafted
-- Backup and disaster-recovery plan drafted
+- observability and monitoring
+- backup/disaster recovery
+- security incident response
+- notification policy
+- operations runbook
+- support model
+- training/onboarding
+- release management
 
-### Delivery
-- MVP scope and delivery slices drafted
-- Product and technical roadmap drafted
-- Build vs Buy vs Partner assessment drafted
+### Evaluation
+- pilot evaluation protocol
+- minimum evaluation dataset
+- UAT/acceptance plan
 
-## Current Workstream
+### Governance
+- risk register
+- assumptions register
+- dependency register
+- issue register
+- decision register
+- RACI
+- quality management plan
+- stakeholder communication plan
+- documentation guide
+- change governance
+- changelog
+- go-live readiness checklist
+- launch governance pack
 
-The pre-implementation documentation foundation is now substantially established.
+### Contracts
+- technical contract architecture
+- API/event/data/service contract foundations
+- legal agreement requirements for counsel
 
-The project can move into evidence-backed platform/vendor discovery, specialty-specific clinical design, pilot partner discovery, and implementation planning without losing traceability.
+### Procurement / platform discovery
+- Build vs Buy vs Partner assessment
+- initial market discovery
+- vendor discovery questionnaire
+- hosting/data residency options
 
-## Next Planned Work
+## Remaining Work That Requires Real-World Evidence
 
-1. Gather evidence and score candidate pilot specialties
-2. Run formal Intelehealth discovery/demo against the Sanad scenario
-3. Run CHT technical fit assessment focused on offline/privacy trade-offs
-4. Qualify one commercial comparator such as VSee
-5. Collect legal answers for the open regulatory question register
-6. Narrow hosting/data-residency options based on legal/privacy evidence
-7. Finalise Build vs Buy vs Partner ADR-001
-8. Convert implementation backlog into GitHub issues after platform decision
-9. Finalise technology-stack ADRs after platform decision
-10. Produce deployment architecture for the selected option
-11. Prepare pilot go-live checklist and launch governance pack
+These items are intentionally not “completed” by writing more documents because they depend on external evidence or accountable decisions:
 
-## Key Decisions Still Open
+1. Select pilot specialty using real survey/facility/consultant evidence
+2. Create specialty-specific case template
+3. Select pilot facilities and partners
+4. Complete vendor demonstrations and technical due diligence
+5. Obtain cost/TCO proposals
+6. Close ADR-001 Build vs Buy vs Partner
+7. Obtain qualified legal/regulatory advice
+8. Finalise consultant indemnity and professional eligibility rules
+9. Finalise data-controller/processor roles
+10. Finalise hosting/data-residency decision
+11. Complete DPIA if required
+12. Finalise retention periods
+13. Obtain ethics/research determination
+14. Execute consultant/facility/vendor/data agreements
+15. Produce final deployment architecture after platform selection
+16. Convert backlog to implementation GitHub issues after platform decision
+17. Perform build/adaptation and pilot UAT
+18. Complete final go-live governance review
 
-- Pilot specialty
-- Pilot state and facilities
-- Final legal entity and operating jurisdiction
-- Platform ownership model
+## Current High-Priority Sequence
+
+1. Clinical needs and specialty evidence
+2. Partner/facility discovery
+3. Intelehealth deep-dive and vendor/platform comparisons
+4. Legal/regulatory consultation
+5. Hosting/data residency narrowing
+6. Final Build/Buy/Partner decision
+7. Final implementation architecture
+8. Implementation backlog → GitHub issues/milestones
+9. Build/adapt platform
+10. Pilot readiness and go-live
+
+## Key Open Decisions
+
+- pilot specialty
+- partner facilities
+- final legal entity/operating jurisdiction
+- platform ownership model
 - Build vs Buy vs Partner
-- Hosting provider, region, and data residency
-- Authentication provider and MFA method
-- Final offline data-storage approach
-- Consultant availability model
-- Routing model
-- Response-time clock and service hours
-- Clinical coding standards
-- Data retention periods
-- Notification channels
-- Approved backup communication channels
-- Long-term interoperability approach
-- Research dataset governance
-- Production support-access model
+- hosting provider/region/data residency
+- authentication/MFA implementation
+- final offline scope
+- routing model
+- service hours/SLA clock
+- clinical coding standards
+- retention periods
+- notification providers/channels
+- fallback communication channel
+- research governance
+- production support-access model
 
-## Major External Dependencies
+## External Dependencies
 
-The following cannot be resolved by engineering alone:
+Engineering cannot close these alone:
 
 - clinical governance approval;
-- specialty-specific workflow design;
-- legal liability model;
-- professional registration requirements;
-- data-protection/legal basis;
-- cross-border data transfer requirements;
+- specialty decisions;
+- professional eligibility/regulatory confirmation;
+- legal liability;
+- privacy/legal basis;
+- cross-border data transfer;
 - sanctions/payment review;
-- partner/facility agreements;
-- research ethics requirements;
-- funding and operational staffing.
-
-## Documentation Principle
-
-No unresolved assumption should silently become a requirement.
-
-Every material decision should be traceable to:
-
-- source evidence;
-- stakeholder approval;
-- an ADR;
-- or an explicit TBD.
+- facility/partner agreements;
+- ethics determination;
+- funding/staffing.
 
 ## Readiness Position
 
-The project is **not yet ready for production clinical implementation**.
+The **pre-implementation documentation baseline is substantially complete**.
 
-It is ready for:
+The next maturity step is not to create more speculative documents. It is to populate and approve the existing frameworks using real clinical, operational, legal, vendor, and partner evidence.
 
-- structured clinical discovery;
-- vendor/platform assessment;
-- pilot operating-model design;
-- detailed technical planning;
-- backlog preparation.
-
-Production implementation should begin only after the critical open decisions are narrowed sufficiently to avoid expensive rework or unsafe assumptions.
+See `DOCUMENTATION_COMPLETENESS_CHECKLIST.md` for the current completeness assessment.
