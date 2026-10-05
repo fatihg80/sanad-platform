@@ -78,3 +78,23 @@
 - Performed initial market discovery for Build vs Buy vs Partner.
 - Added vendor discovery questionnaire and Sanad-specific demonstration scenario.
 - Current discovery priority: Intelehealth first, CHT as strong offline-first alternative, VSee as commercial comparator, custom MVP retained as fallback.
+
+
+### Governance, contracts, and baseline completion
+- Added Scope Guardrails.
+- Added Documentation Guide.
+- Added Quality Management Plan.
+- Added Stakeholder Communication Plan.
+- Added RACI Matrix.
+- Added active Risk, Assumptions, Dependency, Issue, and Decision registers.
+- Added Master Register Index.
+- Added Documentation Completeness Checklist.
+- Added technical Contracts layer covering API, Event, Data, and Service contracts.
+- Added Legal Agreement Requirements for qualified counsel.
+- Added Environment Strategy and Configuration Management.
+- Added Release Management Plan.
+- Added Data Flow and Processing Inventory.
+- Added DPIA template.
+- Added pilot specialty and partner/facility scorecard templates.
+- Added Go-Live Readiness Checklist and Launch Governance Pack.
+- Marked the pre-implementation documentation baseline as substantially complete; remaining gaps require external evidence, approvals, vendor responses, or clinical/legal decisions.
