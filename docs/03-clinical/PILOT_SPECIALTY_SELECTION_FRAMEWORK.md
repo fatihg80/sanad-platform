@@ -261,3 +261,12 @@ The specialty must fit the existing Sanad scope, not redefine it.
 **Required evidence:** local-doctor needs data, consultant capacity, facility case volume, emergency dependence, remote-review suitability, and measurable outcomes.
 
 The Project Manager should not approve a specialty from score alone without clinical interpretation.
+
+---
+
+### Documentation Attribution
+
+**Documentation framework, repository structure, methodology expression, and original authored contributions:** **Alfatih Abdalla**  
+[Email](mailto:Fabdalla782@gmail.com) · [LinkedIn](https://www.linkedin.com/in/alfatihabdalla) · [GitHub](https://github.com/fatihg80)
+
+© 2026 Alfatih Abdalla. This attribution applies to Alfatih Abdalla’s original documentation contributions and organizational expression in this repository. Source materials and third-party contributions retain their respective authorship and rights.

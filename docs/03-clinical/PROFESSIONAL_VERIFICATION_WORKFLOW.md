@@ -128,3 +128,12 @@ Engineering cannot determine professional eligibility independently.
 **Experts:** Clinical Governance, relevant professional regulator/adviser, Healthcare Legal Counsel, and Indemnity/Insurance specialist.
 
 **Review:** acceptable evidence, registration status, cross-border eligibility, expiry/reverification, suspension, and indemnity conditions.
+
+---
+
+### Documentation Attribution
+
+**Documentation framework, repository structure, methodology expression, and original authored contributions:** **Alfatih Abdalla**  
+[Email](mailto:Fabdalla782@gmail.com) · [LinkedIn](https://www.linkedin.com/in/alfatihabdalla) · [GitHub](https://github.com/fatihg80)
+
+© 2026 Alfatih Abdalla. This attribution applies to Alfatih Abdalla’s original documentation contributions and organizational expression in this repository. Source materials and third-party contributions retain their respective authorship and rights.

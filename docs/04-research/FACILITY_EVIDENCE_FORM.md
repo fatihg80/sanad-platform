@@ -106,3 +106,12 @@ Use approximate monthly figures where exact data is unavailable.
 ## Required Expert Review
 
 Facility selection requires Clinical Governance, Operations, and Legal/Compliance review before onboarding.
+
+---
+
+### Documentation Attribution
+
+**Documentation framework, repository structure, methodology expression, and original authored contributions:** **Alfatih Abdalla**  
+[Email](mailto:Fabdalla782@gmail.com) · [LinkedIn](https://www.linkedin.com/in/alfatihabdalla) · [GitHub](https://github.com/fatihg80)
+
+© 2026 Alfatih Abdalla. This attribution applies to Alfatih Abdalla’s original documentation contributions and organizational expression in this repository. Source materials and third-party contributions retain their respective authorship and rights.
