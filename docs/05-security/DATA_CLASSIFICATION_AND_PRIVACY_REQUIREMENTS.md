@@ -416,3 +416,11 @@ The privacy model directly affects:
 - research pipelines.
 
 These decisions must therefore be resolved alongside, not after, architecture design.
+
+## Required Expert Review
+
+**Level:** Required before data model freeze; blocking before production.
+
+**Experts:** Privacy/DPO, Healthcare Legal Counsel, Security Architect, Clinical Governance.
+
+**Review:** sensitivity classes, indirect identification, clinician safety, secondary use, exports, offline storage, international processing, and data-subject obligations.
