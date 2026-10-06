@@ -121,3 +121,14 @@
 - Added explicit `12-implementation/` layer to connect approved requirements to development, testing, security assurance, deployment, and production handover.
 - Clarified that `08-engineering` defines engineering standards, `09-operations` defines live-service operations, `10-delivery` defines stage/governance delivery, and `12-implementation` orchestrates execution order.
 - Updated root README and documentation index so new contributors are directed to START_HERE first.
+
+
+### Documentation simplification
+- Removed the separate `12-implementation/` layer to avoid duplication and navigation complexity.
+- Consolidated implementation lifecycle, development execution, test execution, security assurance, deployment, and production handover into `08-engineering/IMPLEMENTATION_PLAYBOOK.md`.
+- Clarified the folder boundaries:
+  - `08-engineering`: how the software is built, tested, secured, configured, deployed, and handed over.
+  - `09-operations`: how the live service is operated.
+  - `10-delivery`: how project stages, backlog, readiness, acceptance, and launch governance are managed.
+- Added a clickable Documentation Map to the root README.
+- Updated START_HERE and the documentation index to remove references to the retired implementation layer.
