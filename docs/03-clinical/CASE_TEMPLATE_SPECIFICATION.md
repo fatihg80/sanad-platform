@@ -166,3 +166,11 @@ A specialty template requires:
 - priority criteria;
 - maximum attachment set;
 - specialty-specific outcome dataset.
+
+## Required Expert Review
+
+**Level:** Blocking before a specialty template is published.
+
+**Experts:** Pilot Specialty Lead, Clinical Governance, Privacy/DPO, UX specialist, and Clinical Informatics where coded fields are introduced.
+
+**Review:** required fields, clinical sufficiency, identifiers, units/ranges, imaging requirements, usability, and low-connectivity burden.
