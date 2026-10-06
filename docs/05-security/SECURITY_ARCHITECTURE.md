@@ -394,3 +394,15 @@ Any deferred security control must have:
 - compensating control;
 - target date;
 - acceptance authority.
+
+## Required Expert Review
+
+**Level:** Required before implementation freeze; blocking before production approval.
+
+**Experts required:**
+- Security Architect
+- Privacy/DPO
+- Infrastructure/SRE
+- Independent security assessor before go-live
+
+**Questions to review:** identity assurance, MFA, contextual authorisation, privileged access, encryption/key management, object storage, logging, vendor access, incident response, backup security.
