@@ -61,20 +61,13 @@ The repository deliberately distinguishes:
 - retention template
 - hosting/data-residency options
 
-### Engineering
+### Engineering & implementation
 - engineering standards
+- Engineering & Implementation Playbook
 - test strategy
 - CI/CD strategy
 - environment strategy
 - configuration management
-
-### Implementation execution
-- implementation lifecycle
-- development execution plan
-- testing and verification execution
-- security assurance execution
-- deployment and release execution
-- production handover checklist
 
 ### Operations
 - observability and monitoring
