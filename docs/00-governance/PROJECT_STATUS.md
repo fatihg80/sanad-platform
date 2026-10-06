@@ -84,6 +84,7 @@ The repository deliberately distinguishes:
 - UAT/acceptance plan
 
 ### Governance
+- expert engagement policy and expert review register
 - risk register
 - assumptions register
 - dependency register
@@ -131,6 +132,14 @@ These items are intentionally not “completed” by writing more documents beca
 16. Convert backlog to implementation GitHub issues after platform decision
 17. Perform build/adaptation and pilot UAT
 18. Complete final go-live governance review
+
+## Expert Engagement Rule
+
+Any decision outside the competence of the core project team is now explicitly marked for expert review.
+
+The Project Manager should use `EXPERT_REVIEW_REGISTER.md` to engage the relevant clinical, legal, privacy, security, research, finance, compliance, insurance, UX, infrastructure, or informatics specialist before the corresponding gate is approved.
+
+Absence of expert feedback is not approval.
 
 ## Current High-Priority Sequence
 
