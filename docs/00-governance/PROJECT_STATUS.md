@@ -114,6 +114,27 @@ The repository deliberately distinguishes:
 - vendor discovery questionnaire
 - hosting/data residency options
 
+## Documentation Lifecycle Order
+
+The numbered folders now reflect the intended dependency and working sequence:
+
+```text
+00 Governance
+01 Product
+02 Requirements
+03 Clinical
+04 Research & Evidence
+05 Architecture
+06 Security & Privacy
+07 Decisions
+08 Contracts
+09 Delivery
+10 Engineering & Implementation
+11 Operations
+```
+
+The numbering is a navigation aid, not a claim that each layer stops when the next begins. Governance, evidence, security, delivery, and operations continue across multiple phases.
+
 ## Remaining Work That Requires Real-World Evidence
 
 These items are intentionally not “completed” by writing more documents because they depend on external evidence or accountable decisions:
@@ -155,7 +176,13 @@ Completed in the current evidence phase:
 - specialty literature desk review;
 - field specialty evidence questionnaire;
 - vendor demonstration script;
-- expert engagement action plan.
+- expert engagement action plan;
+- local doctor evidence form;
+- facility evidence form;
+- diaspora consultant evidence form;
+- evidence intake register with traceable Evidence IDs;
+- specialty decision evidence table;
+- vendor evidence capture form.
 
 The specialty desk review is preliminary and explicitly requires local Sudan evidence and clinical expert review before selection.
 
