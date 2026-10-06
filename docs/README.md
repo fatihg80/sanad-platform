@@ -7,6 +7,7 @@ This folder contains the working product, clinical, technical, security, governa
 ## 00 Governance
 
 - [Project Status](00-governance/PROJECT_STATUS.md)
+- [Evidence & Decision Readiness Dashboard](00-governance/EVIDENCE_DECISION_READINESS_DASHBOARD.md)
 - [Glossary](00-governance/GLOSSARY.md)
 - [Risk, Opportunity, and Stakeholder Analysis](00-governance/RISK_OPPORTUNITY_STAKEHOLDER_ANALYSIS.md)
 - [Partner and Facility Selection Criteria](00-governance/PARTNER_AND_FACILITY_SELECTION_CRITERIA.md)
@@ -58,6 +59,7 @@ This folder contains the working product, clinical, technical, security, governa
 - [Pilot Evaluation Protocol](04-research/PILOT_EVALUATION_PROTOCOL.md)
 - [Minimum Evaluation Dataset](04-research/MINIMUM_EVALUATION_DATASET.md)
 - [Evidence Collection Plan](04-research/EVIDENCE_COLLECTION_PLAN.md)
+- [Field Evidence Collection Runbook](04-research/FIELD_EVIDENCE_COLLECTION_RUNBOOK.md)
 - [Specialty Evidence Questionnaire](04-research/SPECIALTY_EVIDENCE_QUESTIONNAIRE.md)
 - [Local Doctor Evidence Form](04-research/LOCAL_DOCTOR_EVIDENCE_FORM.md)
 - [Facility Evidence Form](04-research/FACILITY_EVIDENCE_FORM.md)
