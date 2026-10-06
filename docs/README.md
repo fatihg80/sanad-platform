@@ -101,6 +101,7 @@ This folder contains the working product, clinical, technical, security, governa
 - [CI/CD Strategy](08-engineering/CI_CD_STRATEGY.md)
 - [Environment Strategy](08-engineering/ENVIRONMENT_STRATEGY.md)
 - [Configuration Management](08-engineering/CONFIGURATION_MANAGEMENT.md)
+- [Engineering & Implementation Playbook](08-engineering/IMPLEMENTATION_PLAYBOOK.md)
 
 ## 09 Operations
 
@@ -151,12 +152,3 @@ Where the founding prospectus does not decide an issue, later documents should l
 - [Service Contracts](11-contracts/SERVICE_CONTRACTS.md)
 - [Legal Agreement Requirements](11-contracts/LEGAL_AGREEMENT_REQUIREMENTS.md)
 
-
-## 12 Implementation
-
-- [Implementation Lifecycle](12-implementation/IMPLEMENTATION_LIFECYCLE.md)
-- [Development Execution Plan](12-implementation/DEVELOPMENT_EXECUTION_PLAN.md)
-- [Testing and Verification Execution](12-implementation/TESTING_AND_VERIFICATION_EXECUTION.md)
-- [Security Assurance Execution](12-implementation/SECURITY_ASSURANCE_EXECUTION.md)
-- [Deployment and Release Execution](12-implementation/DEPLOYMENT_AND_RELEASE_EXECUTION.md)
-- [Production Handover Checklist](12-implementation/PRODUCTION_HANDOVER_CHECKLIST.md)
