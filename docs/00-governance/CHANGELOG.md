@@ -98,3 +98,16 @@
 - Added pilot specialty and partner/facility scorecard templates.
 - Added Go-Live Readiness Checklist and Launch Governance Pack.
 - Marked the pre-implementation documentation baseline as substantially complete; remaining gaps require external evidence, approvals, vendor responses, or clinical/legal decisions.
+
+
+### Expert engagement and evidence phase
+- Established Expert Engagement Policy and central Expert Review Register.
+- Added mandatory expert-review markers to clinical, legal, privacy, security, evaluation, access-control, retention, DPIA, and platform-decision documents.
+- Added Project Manager Expert Action Plan and Expert Review Request Template.
+- Updated README to explain the documentation-first method, expert involvement, and expected outcomes.
+- Started evidence collection phase.
+- Added official-source Platform Evidence Snapshot and Platform Evidence Matrix.
+- Added Vendor Demonstration Script and evaluation matrix.
+- Updated VSee evidence: Enterprise publicly supports asynchronous eConsult including provider-to-provider use.
+- Added evidence-backed Pilot Specialty Desk Review and Specialty Evidence Questionnaire.
+- Current desk evidence does not constitute specialty selection; local evidence and clinical expert review remain blocking.
