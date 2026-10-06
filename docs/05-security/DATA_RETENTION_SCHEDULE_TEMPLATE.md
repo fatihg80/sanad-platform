@@ -39,3 +39,11 @@ For each category define:
 4. deletion mechanism;
 5. backup handling;
 6. responsible owner.
+
+## Required Expert Review
+
+**Level:** Blocking before final retention policy.
+
+**Experts:** Healthcare Legal Counsel, Privacy/DPO, Clinical Governance, Research Governance for research datasets, Finance for statutory financial records.
+
+No retention period should be invented by engineering.
