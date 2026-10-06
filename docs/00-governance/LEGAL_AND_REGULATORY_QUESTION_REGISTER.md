@@ -156,3 +156,16 @@ For each resolved question record:
 - decision;
 - affected documents/architecture;
 - review date.
+
+## Required Expert Review
+
+**Level:** Blocking for the relevant decision gates.
+
+**Experts required:**
+- Healthcare Legal Counsel with Sudan and relevant cross-border expertise
+- Privacy/Data Protection Counsel or DPO
+- Sanctions/Compliance specialist
+- Medical Indemnity / Insurance specialist
+- Tax/Corporate adviser for entity and payment questions
+
+The Project Manager should assign each question to the appropriate expert and record written advice in the Legal Advice Record section.
