@@ -17,8 +17,8 @@ Legend:
 | Provider-to-provider | C [E-002] | C [E-004/E-005] | P | Designable |
 | Asynchronous specialist workflow | D | C [E-004/E-005] | D | Designable |
 | Low-bandwidth orientation | C [E-003] | U/D | C [E-006] | Designable/test |
-| Offline-first | P/D | U | C [E-006/E-008] | Proposed limited |
-| Arabic / RTL | U | U | P/D | Designable |
+| Offline-first | C/P [E-017] — exact Sanad offline scope still D | U | C [E-006/E-008] | Proposed limited |
+| Arabic / RTL | U — multilingual confirmed, Arabic not yet verified | U | C [E-016] | Designable |
 | Structured case forms | C/P [E-002] | C [E-004] | C [E-006/E-007] | Designable |
 | Routing | D | C/P [E-004] | D | Designable |
 | Written advice | D | C [E-005] | D | Designable |
