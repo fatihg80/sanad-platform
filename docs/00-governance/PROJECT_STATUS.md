@@ -6,7 +6,7 @@ Sanad
 
 ## Current Stage
 
-Pre-implementation foundation substantially complete. The project is now positioned for evidence-backed external discovery, decision closure, and implementation readiness.
+Pre-implementation documentation baseline substantially complete. Active phase: evidence collection, expert engagement, and decision closure.
 
 ## Source of Truth
 
@@ -140,6 +140,20 @@ Any decision outside the competence of the core project team is now explicitly m
 The Project Manager should use `EXPERT_REVIEW_REGISTER.md` to engage the relevant clinical, legal, privacy, security, research, finance, compliance, insurance, UX, infrastructure, or informatics specialist before the corresponding gate is approved.
 
 Absence of expert feedback is not approval.
+
+## Evidence Collection Started
+
+Completed in the current evidence phase:
+
+- official-source platform evidence snapshot;
+- evidence-based platform matrix;
+- updated discovery position for Intelehealth, VSee Enterprise, CHT, OpenMRS, and Custom MVP;
+- specialty literature desk review;
+- field specialty evidence questionnaire;
+- vendor demonstration script;
+- expert engagement action plan.
+
+The specialty desk review is preliminary and explicitly requires local Sudan evidence and clinical expert review before selection.
 
 ## Current High-Priority Sequence
 
