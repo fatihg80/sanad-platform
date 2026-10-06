@@ -148,21 +148,14 @@
 
 ---
 
-### Documentation Attribution
+### Project & Documentation Attribution
 
-**Documentation framework, repository structure, methodology expression, and original authored contributions:** **Alfatih Abdalla**  
+**Project Founder and Founding Prospectus source:** **Dr. Elaf Sabri Khalil**  
+[Email](mailto:elafsabri515@gmail.com) · [LinkedIn](https://www.linkedin.com/in/elaf-sabri-khalil-68097024a)
+
+**Consulting contributor — repository structure, documentation architecture, methodology expression, and analysis:** **Alfatih Abdalla**  
 [Email](mailto:Fabdalla782@gmail.com) · [LinkedIn](https://www.linkedin.com/in/alfatihabdalla) · [GitHub](https://github.com/fatihg80)
 
-© 2026 Alfatih Abdalla. This attribution applies to Alfatih Abdalla’s original documentation contributions and organizational expression in this repository. Source materials and third-party contributions retain their respective authorship and rights.
+Alfatih Abdalla contributed to Sanad in a consulting capacity after being engaged by Dr. Elaf Sabri Khalil. His contribution in this repository is limited to structuring the repository, documentation layers, analysis, and related consulting work based on Dr. Elaf’s founding materials. This attribution does **not** represent Alfatih Abdalla as the founder or owner of Sanad.
 
-
-### Authorship attribution and evidence traceability
-- Added repository-wide documentation attribution for Alfatih Abdalla.
-- Added root `AUTHORS.md`, `NOTICE.md`, and `CONTRIBUTING.md`.
-- Added standard attribution footer to Markdown documentation, while preserving source and third-party authorship boundaries.
-- Added ER-28 for intellectual-property, contributor ownership, licensing, and future entity-assignment review.
-- Added DEC-014 to keep repository licensing and contributor IP terms as an explicit open governance decision.
-- Populated Evidence Intake Register with source/desk Evidence IDs E-001 through E-015.
-- Linked platform evidence matrix claims to explicit Evidence IDs.
-- Linked specialty screening evidence to Evidence IDs while leaving field-dependent scores unfilled.
-- Operationalized the field evidence collection sequence for doctors, facilities, consultants, vendors, and specialist reviewers.
+Source materials and third-party contributions retain their respective authorship and rights.
