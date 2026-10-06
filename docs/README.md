@@ -158,3 +158,11 @@ Where the founding prospectus does not decide an issue, later documents should l
 - [Service Contracts](08-contracts/SERVICE_CONTRACTS.md)
 - [Legal Agreement Requirements](08-contracts/LEGAL_AGREEMENT_REQUIREMENTS.md)
 
+---
+
+### Documentation Attribution
+
+**Documentation framework, repository structure, methodology expression, and original authored contributions:** **Alfatih Abdalla**  
+[Email](mailto:Fabdalla782@gmail.com) · [LinkedIn](https://www.linkedin.com/in/alfatihabdalla) · [GitHub](https://github.com/fatihg80)
+
+© 2026 Alfatih Abdalla. This attribution applies to Alfatih Abdalla’s original documentation contributions and organizational expression in this repository. Source materials and third-party contributions retain their respective authorship and rights.

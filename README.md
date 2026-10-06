@@ -335,6 +335,16 @@ Working documents identify whether statements are:
 - clinical/legal dependencies;
 - or still TBD.
 
+## Authorship and Attribution
+
+The Sanad documentation framework, repository structure, documentation methodology expression, and the original product/technical documentation contributions in this repository are authored and maintained by **Alfatih Abdalla**.
+
+- Email: [Fabdalla782@gmail.com](mailto:Fabdalla782@gmail.com)
+- LinkedIn: [linkedin.com/in/alfatihabdalla](https://www.linkedin.com/in/alfatihabdalla)
+- GitHub: [github.com/fatihg80](https://github.com/fatihg80)
+
+See [AUTHORS.md](AUTHORS.md) and [NOTICE.md](NOTICE.md) for attribution scope and source-material boundaries.
+
 ## Important Notice
 
 This repository contains working project materials.
@@ -350,3 +360,12 @@ Clinical, legal, regulatory, data protection, professional, and patient-safety r
 **Geographic focus:** Sudan  
 **Stage:** Evidence collection / decision closure / pilot preparation  
 **Repository purpose:** Product, clinical, architecture, governance, security, engineering, operations, research, and delivery documentation
+
+---
+
+### Documentation Attribution
+
+**Documentation framework, repository structure, methodology expression, and original authored contributions:** **Alfatih Abdalla**  
+[Email](mailto:Fabdalla782@gmail.com) · [LinkedIn](https://www.linkedin.com/in/alfatihabdalla) · [GitHub](https://github.com/fatihg80)
+
+© 2026 Alfatih Abdalla. This attribution applies to Alfatih Abdalla’s original documentation contributions and organizational expression in this repository. Source materials and third-party contributions retain their respective authorship and rights.
