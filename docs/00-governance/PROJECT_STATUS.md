@@ -166,20 +166,24 @@ The Project Manager should use `EXPERT_REVIEW_REGISTER.md` to engage the relevan
 
 Absence of expert feedback is not approval.
 
-## Authorship and IP Governance
+## Project Origin, Consulting Role, and IP Governance
 
-Repository-wide attribution is now established for Alfatih Abdalla's original documentation contributions and documentation framework expression.
+The repository now explicitly separates the **Sanad project origin** from the **consulting documentation contribution**.
+
+- **Dr. Elaf Sabri Khalil** is identified from the founding materials as the **Founder of Sanad** and the source associated with the **Sanad Founding Team Prospectus**.
+- **Alfatih Abdalla** contributed in a **consulting capacity** after being engaged by Dr. Elaf. His role is limited to structuring this repository, defining its documentation layers and methodology expression, and providing product/technical analysis based on Dr. Elaf's source materials.
+- Alfatih Abdalla is not represented as the founder or owner of Sanad.
 
 Added:
 
 - `AUTHORS.md`;
 - `NOTICE.md`;
 - `CONTRIBUTING.md`;
-- standard attribution footer across Markdown documentation;
+- standard Project & Documentation Attribution across Markdown documentation;
 - ER-28 for IP/contributor/licensing review;
 - DEC-014 for the future repository licence, contributor IP terms, and any assignment to a Sanad legal entity.
 
-This attribution does not supersede separately identified source authorship or third-party rights.
+Final legal ownership/licensing questions remain subject to explicit agreements and qualified IP/legal review.
 
 ## Evidence Collection Started
 
