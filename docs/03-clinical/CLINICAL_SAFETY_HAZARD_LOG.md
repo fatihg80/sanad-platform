@@ -52,3 +52,11 @@ Update when:
 - notifications change;
 - direct patient service is considered;
 - serious incident occurs.
+
+## Required Expert Review
+
+**Level:** Blocking before pilot go-live.
+
+**Experts:** Clinical Governance, Pilot Specialty Lead, Patient Safety/Quality expert where available, Technology/Security for technical hazards.
+
+Each hazard must have an owner, control evidence, residual-risk rating, and accountable acceptance before go-live.
