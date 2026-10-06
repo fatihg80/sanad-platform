@@ -59,6 +59,11 @@ This folder contains the working product, clinical, technical, security, governa
 - [Minimum Evaluation Dataset](04-research/MINIMUM_EVALUATION_DATASET.md)
 - [Evidence Collection Plan](04-research/EVIDENCE_COLLECTION_PLAN.md)
 - [Specialty Evidence Questionnaire](04-research/SPECIALTY_EVIDENCE_QUESTIONNAIRE.md)
+- [Local Doctor Evidence Form](04-research/LOCAL_DOCTOR_EVIDENCE_FORM.md)
+- [Facility Evidence Form](04-research/FACILITY_EVIDENCE_FORM.md)
+- [Diaspora Consultant Evidence Form](04-research/CONSULTANT_EVIDENCE_FORM.md)
+- [Evidence Intake Register](04-research/EVIDENCE_INTAKE_REGISTER.md)
+- [Specialty Decision Evidence Table](04-research/SPECIALTY_DECISION_EVIDENCE_TABLE.md)
 - [Pilot Specialty Desk Evidence Review](04-research/PILOT_SPECIALTY_DESK_EVIDENCE_REVIEW.md)
 - [Platform Evidence Snapshot](04-research/PLATFORM_EVIDENCE_SNAPSHOT.md)
 
@@ -92,6 +97,7 @@ This folder contains the working product, clinical, technical, security, governa
 - [Vendor Discovery Questionnaire](07-decisions/VENDOR_DISCOVERY_QUESTIONNAIRE.md)
 - [Vendor Demonstration Script](07-decisions/VENDOR_DEMONSTRATION_SCRIPT.md)
 - [Vendor Evaluation Matrix](07-decisions/VENDOR_EVALUATION_MATRIX.md)
+- [Vendor Evidence Capture Form](07-decisions/VENDOR_EVIDENCE_CAPTURE_FORM.md)
 - [Platform Evidence Matrix](07-decisions/PLATFORM_EVIDENCE_MATRIX.md)
 
 ## 09 Delivery
