@@ -565,3 +565,26 @@ The validated workflow directly determines:
 - escalation logic.
 
 This specification should therefore be reviewed before the C4 architecture and major ADRs are approved.
+
+## Required Expert Review
+
+**Level:** Blocking before clinical workflow approval.
+
+**Experts required:**
+- Clinical Governance Lead
+- Pilot Specialty Lead
+- Healthcare Legal Counsel for liability/consent boundaries
+- Operations representative for service-hour and escalation practicality
+
+**Questions to review:**
+- clinical responsibility boundary;
+- emergency exclusion wording;
+- priority criteria;
+- additional-information workflow;
+- second-opinion triggers;
+- closure/reopening rules;
+- fallback communication safety.
+
+**Evidence to retain:** written review/approval, date, reviewers, unresolved conditions.
+
+See `docs/00-governance/EXPERT_REVIEW_REGISTER.md`.
