@@ -54,6 +54,7 @@ Identify where Sanad requires qualified specialist input so the Project Manager 
 | ER-25 | Build vs Buy vs Partner final decision | Technology + Clinical + Security + Privacy + Commercial | Cross-functional strategic decision | Before implementation commitment |
 | ER-26 | Accessibility/mobile UX | UX/Accessibility + Local Users | Adoption and safe usability on low-cost devices | Before pilot UAT closure |
 | ER-27 | Production SLO/RTO/RPO | Infrastructure/SRE + Operations + Clinical | Recovery/availability targets must match service model | Before production sign-off |
+| ER-28 | Repository IP, contributor ownership, licensing, and future Sanad entity assignment | Intellectual Property / Technology Legal Counsel | Multiple contributors, source authors, employers, and a future legal entity may have different rights; attribution alone does not resolve ownership/licensing | Before accepting substantial external contributions, licensing, commercialisation, or IP transfer |
 
 ## Project Manager Action Rule
 
