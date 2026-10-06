@@ -455,3 +455,17 @@ Update this threat model when:
 - WAF/DDoS provider;
 - research export environment;
 - security monitoring provider.
+
+## Required Expert Review
+
+**Level:** Required before architecture freeze; blocking before go-live.
+
+**Experts required:**
+- Security Architect / Application Security Specialist
+- Privacy/DPO representative
+- Clinical Governance representative for safety consequences
+- Infrastructure/SRE representative once hosting is selected
+
+**Evidence to retain:** review findings, accepted residual risks, remediation actions, and review date.
+
+An independent implementation-level security assessment remains required before live clinical use.
