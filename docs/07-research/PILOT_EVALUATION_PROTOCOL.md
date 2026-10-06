@@ -225,3 +225,16 @@ The pilot should demonstrate:
 - clinician adoption;
 - reliable measurement;
 - credible path to sustainability.
+
+## Required Expert Review
+
+**Level:** Blocking before pilot evaluation data collection is finalised.
+
+**Experts required:**
+- Public Health / Health Services Research specialist
+- Biostatistician or evaluation-methods specialist
+- Clinical Governance representative
+- Privacy/DPO
+- Research Ethics / IRB adviser where publication-oriented research is intended
+
+**Questions to review:** outcome validity, bias, sample-size interpretation, missing follow-up, research-vs-service-evaluation classification, ethics requirements, and de-identification.
