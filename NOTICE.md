@@ -37,3 +37,12 @@ When new contributors or organisations join the project, the Project Manager sho
 6. any assignment to a future Sanad legal entity.
 
 These questions should be reviewed with qualified intellectual-property/legal counsel before material external contributions or commercialisation.
+
+---
+
+### Documentation Attribution
+
+**Documentation framework, repository structure, methodology expression, and original authored contributions:** **Alfatih Abdalla**  
+[Email](mailto:Fabdalla782@gmail.com) · [LinkedIn](https://www.linkedin.com/in/alfatihabdalla) · [GitHub](https://github.com/fatihg80)
+
+© 2026 Alfatih Abdalla. This attribution applies to Alfatih Abdalla’s original documentation contributions and organizational expression in this repository. Source materials and third-party contributions retain their respective authorship and rights.
