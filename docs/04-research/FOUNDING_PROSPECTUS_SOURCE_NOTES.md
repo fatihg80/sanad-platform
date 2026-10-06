@@ -1,6 +1,9 @@
 # Founding Prospectus, Source Notes
 
 **Source:** Sanad Founding Team Prospectus v1.0, September 2026  
+**Founder / source contact:** **Dr. Elaf Sabri Khalil**  
+**Email:** [elafsabri515@gmail.com](mailto:elafsabri515@gmail.com)  
+**LinkedIn:** [linkedin.com/in/elaf-sabri-khalil-68097024a](https://www.linkedin.com/in/elaf-sabri-khalil-68097024a)  
 **Purpose of this file:** Preserve the project's original framing separately from later product and engineering interpretation.
 
 ## Original Positioning
