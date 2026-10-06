@@ -84,3 +84,11 @@ Record consultation with:
 - clinical owner;
 - date;
 - review trigger.
+
+## Required Expert Review
+
+**Level:** Blocking where a DPIA is legally required.
+
+**Experts:** Privacy/DPO leads the assessment, supported by Security, Clinical Governance, Legal Counsel, and relevant data processors/vendors.
+
+A completed DPIA requires the final processing design, not only this template.
