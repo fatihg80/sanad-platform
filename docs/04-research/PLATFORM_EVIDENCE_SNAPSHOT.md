@@ -223,3 +223,12 @@ Experts:
 - Legal Counsel for data/vendor terms
 
 The Project Manager should arrange vendor demonstrations and expert review using `VENDOR_DISCOVERY_QUESTIONNAIRE.md`.
+
+---
+
+### Documentation Attribution
+
+**Documentation framework, repository structure, methodology expression, and original authored contributions:** **Alfatih Abdalla**  
+[Email](mailto:Fabdalla782@gmail.com) · [LinkedIn](https://www.linkedin.com/in/alfatihabdalla) · [GitHub](https://github.com/fatihg80)
+
+© 2026 Alfatih Abdalla. This attribution applies to Alfatih Abdalla’s original documentation contributions and organizational expression in this repository. Source materials and third-party contributions retain their respective authorship and rights.
