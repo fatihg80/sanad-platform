@@ -335,15 +335,24 @@ Working documents identify whether statements are:
 - clinical/legal dependencies;
 - or still TBD.
 
-## Authorship and Attribution
+## Project Origin and Documentation Roles
 
-The Sanad documentation framework, repository structure, documentation methodology expression, and the original product/technical documentation contributions in this repository are authored and maintained by **Alfatih Abdalla**.
+**Project Founder and Founding Prospectus source:** **Dr. Elaf Sabri Khalil**
+
+- Email: [elafsabri515@gmail.com](mailto:elafsabri515@gmail.com)
+- LinkedIn: [linkedin.com/in/elaf-sabri-khalil-68097024a](https://www.linkedin.com/in/elaf-sabri-khalil-68097024a)
+
+The repository and the documentation layers were created from the founding materials supplied by Dr. Elaf.
+
+**Consulting contributor — repository structure, documentation architecture, methodology expression, and analysis:** **Alfatih Abdalla**
 
 - Email: [Fabdalla782@gmail.com](mailto:Fabdalla782@gmail.com)
 - LinkedIn: [linkedin.com/in/alfatihabdalla](https://www.linkedin.com/in/alfatihabdalla)
 - GitHub: [github.com/fatihg80](https://github.com/fatihg80)
 
-See [AUTHORS.md](AUTHORS.md) and [NOTICE.md](NOTICE.md) for attribution scope and source-material boundaries. Contributors should also follow [CONTRIBUTING.md](CONTRIBUTING.md).
+Alfatih Abdalla participated in a consulting capacity after being engaged by Dr. Elaf Sabri Khalil. His role in this repository is limited to structuring the repository, defining its documentation layers and methodology, and providing product/technical analysis based on Dr. Elaf's source materials. He is **not represented as the founder or owner of Sanad**.
+
+See [AUTHORS.md](AUTHORS.md) and [NOTICE.md](NOTICE.md) for the attribution boundary. Contributors should also follow [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Important Notice
 
@@ -363,9 +372,14 @@ Clinical, legal, regulatory, data protection, professional, and patient-safety r
 
 ---
 
-### Documentation Attribution
+### Project & Documentation Attribution
 
-**Documentation framework, repository structure, methodology expression, and original authored contributions:** **Alfatih Abdalla**  
+**Project Founder and Founding Prospectus source:** **Dr. Elaf Sabri Khalil**  
+[Email](mailto:elafsabri515@gmail.com) · [LinkedIn](https://www.linkedin.com/in/elaf-sabri-khalil-68097024a)
+
+**Consulting contributor — repository structure, documentation architecture, methodology expression, and analysis:** **Alfatih Abdalla**  
 [Email](mailto:Fabdalla782@gmail.com) · [LinkedIn](https://www.linkedin.com/in/alfatihabdalla) · [GitHub](https://github.com/fatihg80)
 
-© 2026 Alfatih Abdalla. This attribution applies to Alfatih Abdalla’s original documentation contributions and organizational expression in this repository. Source materials and third-party contributions retain their respective authorship and rights.
+Alfatih Abdalla contributed to Sanad in a consulting capacity after being engaged by Dr. Elaf Sabri Khalil. This attribution does **not** represent him as the founder or owner of Sanad.
+
+Source materials and third-party contributions retain their respective authorship and rights.
