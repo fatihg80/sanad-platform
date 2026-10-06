@@ -33,9 +33,12 @@ The repository's final licence, contributor IP terms, and any assignment to a fu
 
 A Git commit or pull request does not itself constitute clinical, legal, regulatory, privacy, or research-ethics approval. Required approvals must be recorded through the project governance process.
 
-## Documentation Attribution
+## Project & Documentation Attribution
 
-**Documentation framework, repository structure, methodology expression, and original authored contributions:** **Alfatih Abdalla**  
+**Project Founder and Founding Prospectus source:** **Dr. Elaf Sabri Khalil**  
+[Email](mailto:elafsabri515@gmail.com) · [LinkedIn](https://www.linkedin.com/in/elaf-sabri-khalil-68097024a)
+
+**Consulting contributor — repository structure, documentation architecture, methodology expression, and analysis:** **Alfatih Abdalla**  
 [Email](mailto:Fabdalla782@gmail.com) · [LinkedIn](https://www.linkedin.com/in/alfatihabdalla) · [GitHub](https://github.com/fatihg80)
 
-© 2026 Alfatih Abdalla. Source materials and third-party contributions retain their respective authorship and rights.
+Alfatih Abdalla is not represented as the founder or owner of Sanad.
