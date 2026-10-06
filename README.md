@@ -196,18 +196,35 @@ docs/
 ├── 07-research/
 │   └── Founding-source material and future evidence/evaluation work
 ├── 08-engineering/
-│   └── Engineering standards, testing, CI/CD
+│   └── Engineering standards, implementation playbook, testing, CI/CD
 ├── 09-operations/
 │   └── Monitoring, backup/DR, incident response
 ├── 10-delivery/
 │   └── MVP plan, roadmap, scorecards, readiness, requirements traceability
-├── 11-contracts/
-│   └── Technical contracts and legal agreement requirements
-└── 12-implementation/
-    └── Development, testing, security assurance, deployment, and production handover
+└── 11-contracts/
+    └── Technical contracts and legal agreement requirements
 ```
 
 See [the documentation index](docs/README.md) for direct links to all current project documents.
+
+## Documentation Map
+
+| Layer | Purpose | Open |
+|---|---|---|
+| 00 Governance | Decisions, stakeholders, risks, experts, scope, project control | [Open folder](docs/00-governance/) |
+| 01 Product | Product vision, scope, and requirements | [Open folder](docs/01-product/) |
+| 02 Requirements | SRS, access, measurable system requirements | [Open folder](docs/02-requirements/) |
+| 03 Clinical | Clinical workflow, safety, verification, specialty design | [Open folder](docs/03-clinical/) |
+| 04 Architecture | C4, domain, data, and integration architecture | [Open folder](docs/04-architecture/) |
+| 05 Security | Privacy, threat model, security architecture, data protection | [Open folder](docs/05-security/) |
+| 06 Decisions | ADRs, vendor/platform decisions, evidence matrices | [Open folder](docs/06-decisions/) |
+| 07 Research | Source evidence, evaluation, questionnaires, desk research | [Open folder](docs/07-research/) |
+| 08 Engineering & Implementation | How software is built, tested, secured, configured, and deployed | [Open folder](docs/08-engineering/) |
+| 09 Operations | How the live service is monitored, supported, recovered, and operated | [Open folder](docs/09-operations/) |
+| 10 Delivery | Roadmap, backlog, stage gates, UAT, readiness, launch governance | [Open folder](docs/10-delivery/) |
+| 11 Contracts | Technical contracts and legal agreement requirements | [Open folder](docs/11-contracts/) |
+
+For the complete clickable document-level index, open **[docs/README.md](docs/README.md)**.
 
 ## How to Navigate This Repository
 
@@ -261,7 +278,7 @@ The repository now includes working drafts for:
 - Multidisciplinary Documentation Manual / Start Here
 - Stakeholder Register and Engagement Matrix
 - Internal and External Factors Analysis
-- Implementation Lifecycle and execution plans
+- Engineering & Implementation Playbook
 
 ## Why This Documentation-First Method
 
