@@ -156,3 +156,16 @@ This document intentionally does not select:
 - UK/EU/Middle East region.
 
 Provider selection should follow the legal/privacy evidence, not precede it.
+
+## Required Expert Review
+
+**Level:** Blocking before final hosting/provider decision.
+
+**Experts required:**
+- Privacy Counsel / DPO
+- Healthcare Legal Counsel
+- Security Architect
+- Cloud / Infrastructure Architect or SRE
+- Sanctions/Compliance specialist where provider/service availability may be affected
+
+**Evidence to retain:** legal position, DPA/subprocessors, support-access geography, backup geography, latency test, cost, security controls, and portability assessment.
