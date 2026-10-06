@@ -166,6 +166,21 @@ The Project Manager should use `EXPERT_REVIEW_REGISTER.md` to engage the relevan
 
 Absence of expert feedback is not approval.
 
+## Authorship and IP Governance
+
+Repository-wide attribution is now established for Alfatih Abdalla's original documentation contributions and documentation framework expression.
+
+Added:
+
+- `AUTHORS.md`;
+- `NOTICE.md`;
+- `CONTRIBUTING.md`;
+- standard attribution footer across Markdown documentation;
+- ER-28 for IP/contributor/licensing review;
+- DEC-014 for the future repository licence, contributor IP terms, and any assignment to a Sanad legal entity.
+
+This attribution does not supersede separately identified source authorship or third-party rights.
+
 ## Evidence Collection Started
 
 Completed in the current evidence phase:
@@ -182,7 +197,10 @@ Completed in the current evidence phase:
 - diaspora consultant evidence form;
 - evidence intake register with traceable Evidence IDs;
 - specialty decision evidence table;
-- vendor evidence capture form.
+- vendor evidence capture form;
+- populated desk/source Evidence IDs E-001 through E-015;
+- platform matrix linked to Evidence IDs;
+- specialty decision table linked to literature Evidence IDs while field scoring remains pending.
 
 The specialty desk review is preliminary and explicitly requires local Sudan evidence and clinical expert review before selection.
 
