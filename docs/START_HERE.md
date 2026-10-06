@@ -381,11 +381,12 @@ Evidence here informs decisions. It does not automatically become an approved re
 
 ### Purpose
 
-Defines how software should be built and maintained.
+Defines how software should be designed, built, tested, secured, configured, deployed, and handed over.
 
 ### Contains
 
 - engineering standards;
+- implementation playbook;
 - test strategy;
 - CI/CD;
 - environment strategy;
@@ -401,7 +402,7 @@ Defines how software should be built and maintained.
 
 ### Key rule
 
-This folder defines engineering discipline, not business scope.
+This folder contains both engineering discipline and the execution playbook. It answers **how the approved system is implemented**. It does not own business scope or project stage approval.
 
 ---
 
@@ -500,38 +501,6 @@ Binding legal contracts require qualified legal counsel.
 
 ---
 
-## 12-implementation
-
-### Purpose
-
-Provides the execution map after the major decisions are approved.
-
-### Contains
-
-- implementation lifecycle;
-- development execution plan;
-- testing and verification execution;
-- security assurance execution;
-- deployment and release execution;
-- production-readiness handover.
-
-### Who should use it
-
-- Engineering;
-- QA;
-- Security;
-- DevOps/SRE;
-- Project Manager;
-- Product.
-
-### Key rule
-
-This folder does not duplicate detailed standards from 08/09/10.
-
-It tells the delivery team **in what order to execute them**.
-
----
-
 # 5. Role-Specific Reading Paths
 
 ## Project Manager
@@ -546,7 +515,7 @@ Read first:
 6. Expert Review Register
 7. Decision / Risk / Issue / Dependency Registers
 8. Roadmap
-9. Implementation Lifecycle
+9. Engineering & Implementation Playbook
 10. Go-Live Checklist
 
 Primary responsibility:
@@ -633,7 +602,7 @@ Read:
 5. Data Flow Inventory
 6. Engineering Standards
 7. CI/CD
-8. Security Assurance Execution Plan
+8. Engineering & Implementation Playbook
 
 ---
 
@@ -650,7 +619,7 @@ Read:
 7. ADRs
 8. Contracts
 9. Engineering Standards
-10. Implementation folder
+10. Engineering & Implementation Playbook
 
 ---
 
@@ -781,9 +750,9 @@ Evidence review
 Continue / Modify / Pause / Stop
 ```
 
-Detailed execution guidance is under:
+Detailed execution guidance is in:
 
-`docs/12-implementation/`
+`docs/08-engineering/IMPLEMENTATION_PLAYBOOK.md`
 
 ---
 
