@@ -208,6 +208,17 @@ Completed in the current evidence phase:
 
 The specialty desk review is preliminary and explicitly requires local Sudan evidence and clinical expert review before selection.
 
+### Field Evidence Batch 01 opened
+
+Operational collection is now open with reserved IDs:
+
+- F-001 to F-010: Local Doctors
+- F-100 to F-102: Candidate Facilities
+- F-200 to F-205: Diaspora Consultants
+- F-300+: Vendor/platform demonstrations
+
+GitHub execution issues have been opened for each collection stream. No field responses or scores are recorded until real evidence is received and validated.
+
 ## Current High-Priority Sequence
 
 1. Clinical needs and specialty evidence
