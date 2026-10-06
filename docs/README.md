@@ -23,6 +23,10 @@ This folder contains the working product, clinical, technical, security, governa
 - [Decision Register](00-governance/DECISION_REGISTER.md)
 - [Master Register Index](00-governance/MASTER_REGISTER_INDEX.md)
 - [Documentation Completeness Checklist](00-governance/DOCUMENTATION_COMPLETENESS_CHECKLIST.md)
+- [Expert Engagement Policy](00-governance/EXPERT_ENGAGEMENT_POLICY.md)
+- [Expert Review Register](00-governance/EXPERT_REVIEW_REGISTER.md)
+- [Expert Review Request Template](00-governance/EXPERT_REVIEW_REQUEST_TEMPLATE.md)
+- [Project Manager Expert Action Plan](00-governance/PROJECT_MANAGER_EXPERT_ACTION_PLAN.md)
 
 ## 01 Product
 
@@ -71,12 +75,19 @@ This folder contains the working product, clinical, technical, security, governa
 - [ADR-006: Contextual Authorisation](06-decisions/ADR-006-CONTEXTUAL-AUTHORIZATION.md)
 - [Build/Buy/Partner Market Discovery](06-decisions/BUILD_BUY_PARTNER_MARKET_DISCOVERY.md)
 - [Vendor Discovery Questionnaire](06-decisions/VENDOR_DISCOVERY_QUESTIONNAIRE.md)
+- [Vendor Demonstration Script](06-decisions/VENDOR_DEMONSTRATION_SCRIPT.md)
+- [Vendor Evaluation Matrix](06-decisions/VENDOR_EVALUATION_MATRIX.md)
+- [Platform Evidence Matrix](06-decisions/PLATFORM_EVIDENCE_MATRIX.md)
 
 ## 07 Research and Source Material
 
 - [Founding Prospectus Source Notes](07-research/FOUNDING_PROSPECTUS_SOURCE_NOTES.md)
 - [Pilot Evaluation Protocol](07-research/PILOT_EVALUATION_PROTOCOL.md)
 - [Minimum Evaluation Dataset](07-research/MINIMUM_EVALUATION_DATASET.md)
+- [Evidence Collection Plan](07-research/EVIDENCE_COLLECTION_PLAN.md)
+- [Specialty Evidence Questionnaire](07-research/SPECIALTY_EVIDENCE_QUESTIONNAIRE.md)
+- [Pilot Specialty Desk Evidence Review](07-research/PILOT_SPECIALTY_DESK_EVIDENCE_REVIEW.md)
+- [Platform Evidence Snapshot](07-research/PLATFORM_EVIDENCE_SNAPSHOT.md)
 
 ## 08 Engineering
 
