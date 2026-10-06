@@ -130,3 +130,11 @@ Any field added during the pilot should document:
 - date;
 - approval;
 - effect on longitudinal comparison.
+
+## Required Expert Review
+
+**Level:** Required before evaluation schema is implemented.
+
+**Experts:** Public Health/Health Services Research, Biostatistics/Evaluation, Privacy/DPO, Clinical Governance.
+
+**Review:** necessity, outcome validity, missing-data semantics, re-identification risk, and analysis feasibility.
