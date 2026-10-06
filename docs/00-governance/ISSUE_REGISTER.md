@@ -13,3 +13,12 @@ This register is for active project issues, not software bugs.
 | I-04 | Service-hours/SLA clock rules unresolved | Clinical/Operations | Medium/High | Approve policy model | Open |
 | I-05 | Retention periods unresolved | Legal/Clinical | High | Legal/records review | Open |
 | I-06 | Final professional verification evidence unresolved | Clinical/Regulatory | High | Regulator review | Open |
+
+---
+
+### Documentation Attribution
+
+**Documentation framework, repository structure, methodology expression, and original authored contributions:** **Alfatih Abdalla**  
+[Email](mailto:Fabdalla782@gmail.com) · [LinkedIn](https://www.linkedin.com/in/alfatihabdalla) · [GitHub](https://github.com/fatihg80)
+
+© 2026 Alfatih Abdalla. This attribution applies to Alfatih Abdalla’s original documentation contributions and organizational expression in this repository. Source materials and third-party contributions retain their respective authorship and rights.

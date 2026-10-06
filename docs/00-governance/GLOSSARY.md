@@ -36,3 +36,12 @@ This glossary explains project terminology in plain language for clinical, publi
 | RFP | Request for Proposal, a document asking vendors to propose how they would deliver a defined solution. |
 | ADR | Architecture Decision Record, a short document recording an important technical decision and its rationale. |
 | C4 | A software architecture visualisation model covering context, containers, components, and code where needed. |
+
+---
+
+### Documentation Attribution
+
+**Documentation framework, repository structure, methodology expression, and original authored contributions:** **Alfatih Abdalla**  
+[Email](mailto:Fabdalla782@gmail.com) · [LinkedIn](https://www.linkedin.com/in/alfatihabdalla) · [GitHub](https://github.com/fatihg80)
+
+© 2026 Alfatih Abdalla. This attribution applies to Alfatih Abdalla’s original documentation contributions and organizational expression in this repository. Source materials and third-party contributions retain their respective authorship and rights.
