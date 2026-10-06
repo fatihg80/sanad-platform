@@ -201,11 +201,35 @@ docs/
 │   └── Monitoring, backup/DR, incident response
 ├── 10-delivery/
 │   └── MVP plan, roadmap, scorecards, readiness, requirements traceability
-└── 11-contracts/
-    └── Technical contracts and legal agreement requirements
+├── 11-contracts/
+│   └── Technical contracts and legal agreement requirements
+└── 12-implementation/
+    └── Development, testing, security assurance, deployment, and production handover
 ```
 
 See [the documentation index](docs/README.md) for direct links to all current project documents.
+
+## How to Navigate This Repository
+
+If you are new to the project, do **not** start by opening random technical documents.
+
+Start with:
+
+1. [README](README.md)
+2. [Documentation Manual / Start Here](docs/START_HERE.md)
+3. [Project Status](docs/00-governance/PROJECT_STATUS.md)
+4. [Scope Guardrails](docs/00-governance/SCOPE_GUARDRAILS.md)
+5. Your role-specific reading path defined in `docs/START_HERE.md`
+
+The documentation manual explains:
+
+- what every folder is for;
+- which documents matter to each profession;
+- where a clinician, lawyer, privacy specialist, researcher, engineer, or project manager should start;
+- how documents move from Draft to Approved;
+- how expert reviews are requested;
+- how decisions are recorded;
+- how documentation leads into implementation and pilot operations.
 
 ## Current Documentation
 
@@ -234,6 +258,10 @@ The repository now includes working drafts for:
 - MVP Scope and Delivery Plan
 - Product and Technical Roadmap
 - Requirements Traceability Matrix
+- Multidisciplinary Documentation Manual / Start Here
+- Stakeholder Register and Engagement Matrix
+- Internal and External Factors Analysis
+- Implementation Lifecycle and execution plans
 
 ## Why This Documentation-First Method
 
