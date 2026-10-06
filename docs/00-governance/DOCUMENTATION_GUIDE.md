@@ -78,7 +78,27 @@ Markdown in Git is the primary editable source for project documentation.
 
 Exported Word/PDF files are presentation/distribution artifacts, not the canonical editable source unless explicitly designated.
 
-## 9. Review Ownership
+## 9. Expert Review Markers
+
+Any document containing a decision that requires specialist judgement must include a **Required Expert Review** section.
+
+That section should identify:
+
+- expert role;
+- review level: Advisory, Required, or Blocking;
+- questions to review;
+- decision gate;
+- evidence to retain;
+- decision owner.
+
+The Project Manager is responsible for engaging the expert and ensuring the decision remains Open/Proposed until the required review is evidenced.
+
+See:
+
+- `EXPERT_ENGAGEMENT_POLICY.md`
+- `EXPERT_REVIEW_REGISTER.md`
+
+## 10. Review Ownership
 
 - Clinical docs: clinical owner
 - Legal docs: counsel/compliance owner
@@ -86,7 +106,7 @@ Exported Word/PDF files are presentation/distribution artifacts, not the canonic
 - Evaluation: research/evaluation owner
 - Operations: operations owner
 
-## 10. Documentation Debt
+## 11. Documentation Debt
 
 Outdated documentation is a defect.
 
