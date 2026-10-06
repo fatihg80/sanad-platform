@@ -247,3 +247,17 @@ Selecting a specialty does not expand Sanad into:
 - national rollout.
 
 The specialty must fit the existing Sanad scope, not redefine it.
+
+## Required Expert Review
+
+**Level:** Blocking before specialty selection.
+
+**Experts required:**
+- Clinical Governance Lead
+- Relevant specialty experts
+- Public Health / Health Services Evaluation specialist
+- Operations representative
+
+**Required evidence:** local-doctor needs data, consultant capacity, facility case volume, emergency dependence, remote-review suitability, and measurable outcomes.
+
+The Project Manager should not approve a specialty from score alone without clinical interpretation.
