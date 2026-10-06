@@ -323,3 +323,18 @@ When evidence is available, ADR-001 should record:
 - Consequences
 - Exit strategy
 - Review trigger
+
+## Required Expert Review
+
+**Level:** Blocking before implementation commitment.
+
+**Experts required:**
+- Technology Lead / Software Architect
+- Security Specialist
+- Privacy/DPO
+- Clinical Governance representative
+- Procurement / Commercial specialist
+- Operations representative
+- Legal Counsel for vendor/data terms
+
+The final decision must be based on evidence from demonstrations, due diligence, TCO, exit/portability, legal/privacy review, and clinical workflow fit.
