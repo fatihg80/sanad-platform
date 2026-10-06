@@ -183,8 +183,10 @@ docs/
 │   └── Engineering standards, testing, CI/CD
 ├── 09-operations/
 │   └── Monitoring, backup/DR, incident response
-└── 10-delivery/
-    └── MVP plan, roadmap, requirements traceability
+├── 10-delivery/
+│   └── MVP plan, roadmap, scorecards, readiness, requirements traceability
+└── 11-contracts/
+    └── Technical contracts and legal agreement requirements
 ```
 
 See [the documentation index](docs/README.md) for direct links to all current project documents.
@@ -216,6 +218,45 @@ The repository now includes working drafts for:
 - MVP Scope and Delivery Plan
 - Product and Technical Roadmap
 - Requirements Traceability Matrix
+
+## Why This Documentation-First Method
+
+Sanad is not only a software product. It combines clinical practice, public health, cross-border professional work, sensitive health data, low-connectivity operations, research/evaluation, and multiple organisations.
+
+For that reason, the project is being developed through a documentation-first and evidence-driven method before major implementation commitments are made.
+
+The purpose is to:
+
+- keep the clinical problem and service model ahead of technology choices;
+- separate source facts from assumptions and engineering proposals;
+- expose legal, clinical, privacy, security, and operational dependencies early;
+- give specialists clear points at which their expertise is required;
+- make important decisions traceable;
+- reduce rework after vendor/platform selection;
+- preserve an exit path if a vendor or architectural choice proves unsuitable;
+- create a foundation that can mature beyond the pilot without rebuilding governance from scratch.
+
+The expected result is not “more documentation.” The expected result is a safer and more sustainable pilot in which product, clinical, technical, legal, and operational decisions can be explained and tested.
+
+## Expert Involvement
+
+The core team does not approve specialist matters outside its competence.
+
+Documents that require specialist judgement are marked **Required Expert Review** and linked to a central Expert Review Register.
+
+Examples include:
+
+- clinical workflow and specialty selection;
+- medical liability and consent;
+- professional eligibility and indemnity;
+- privacy and cross-border data processing;
+- security architecture and penetration testing;
+- evaluation methodology and research ethics;
+- sanctions, payments, insurance, and tax;
+- health-informatics standards;
+- accessibility and low-resource usability.
+
+The Project Manager is responsible for engaging the required expert before the relevant decision gate is closed.
 
 ## Documentation Discipline
 
