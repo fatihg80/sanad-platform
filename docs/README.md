@@ -1,5 +1,7 @@
 # Sanad Documentation Index
 
+> **New to the project?** Start with [START_HERE.md](START_HERE.md). It explains the repository for clinical, legal, public-health, operational, and technical contributors.
+
 This folder contains the working product, clinical, technical, security, governance, operations, and delivery documentation for Sanad.
 
 ## 00 Governance
@@ -22,6 +24,9 @@ This folder contains the working product, clinical, technical, security, governa
 - [Issue Register](00-governance/ISSUE_REGISTER.md)
 - [Decision Register](00-governance/DECISION_REGISTER.md)
 - [Master Register Index](00-governance/MASTER_REGISTER_INDEX.md)
+- [Stakeholder Register](00-governance/STAKEHOLDER_REGISTER.md)
+- [Stakeholder Engagement Matrix](00-governance/STAKEHOLDER_ENGAGEMENT_MATRIX.md)
+- [Internal and External Factors Analysis](00-governance/INTERNAL_EXTERNAL_FACTORS_ANALYSIS.md)
 - [Documentation Completeness Checklist](00-governance/DOCUMENTATION_COMPLETENESS_CHECKLIST.md)
 - [Expert Engagement Policy](00-governance/EXPERT_ENGAGEMENT_POLICY.md)
 - [Expert Review Register](00-governance/EXPERT_REVIEW_REGISTER.md)
@@ -145,3 +150,13 @@ Where the founding prospectus does not decide an issue, later documents should l
 - [Data Contracts](11-contracts/DATA_CONTRACTS.md)
 - [Service Contracts](11-contracts/SERVICE_CONTRACTS.md)
 - [Legal Agreement Requirements](11-contracts/LEGAL_AGREEMENT_REQUIREMENTS.md)
+
+
+## 12 Implementation
+
+- [Implementation Lifecycle](12-implementation/IMPLEMENTATION_LIFECYCLE.md)
+- [Development Execution Plan](12-implementation/DEVELOPMENT_EXECUTION_PLAN.md)
+- [Testing and Verification Execution](12-implementation/TESTING_AND_VERIFICATION_EXECUTION.md)
+- [Security Assurance Execution](12-implementation/SECURITY_ASSURANCE_EXECUTION.md)
+- [Deployment and Release Execution](12-implementation/DEPLOYMENT_AND_RELEASE_EXECUTION.md)
+- [Production Handover Checklist](12-implementation/PRODUCTION_HANDOVER_CHECKLIST.md)
