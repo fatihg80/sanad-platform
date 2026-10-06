@@ -177,32 +177,35 @@ Potential stakeholders include:
 
 ## Repository Structure
 
+The numbering reflects the project's **working lifecycle and dependency order**, not the date a folder was created.
+
 ```text
 docs/
+├── START_HERE.md
 ├── 00-governance/
-│   └── Status, terminology, risk analysis, change governance, changelog
+│   └── Governance, scope, stakeholders, risks, experts, project control
 ├── 01-product/
-│   └── Product requirements
+│   └── Product purpose, scope, and product requirements
 ├── 02-requirements/
-│   └── SRS, access-control matrix, measurable NFRs
+│   └── System requirements, access control, measurable NFRs
 ├── 03-clinical/
-│   └── Clinical workflow and safety hazard log
-├── 04-architecture/
+│   └── Clinical workflow, safety, verification, specialty design
+├── 04-research/
+│   └── Source evidence, field evidence, evaluation, questionnaires
+├── 05-architecture/
 │   └── C4, domain model, data architecture, integration principles
-├── 05-security/
-│   └── Privacy, threat model, security architecture
-├── 06-decisions/
-│   └── Architecture Decision Records and Build/Buy/Partner assessment
-├── 07-research/
-│   └── Founding-source material and future evidence/evaluation work
-├── 08-engineering/
+├── 06-security/
+│   └── Privacy, threat model, security architecture, data protection
+├── 07-decisions/
+│   └── ADRs, Build/Buy/Partner, vendor/platform evidence and decisions
+├── 08-contracts/
+│   └── Technical contracts and legal agreement requirements
+├── 09-delivery/
+│   └── Roadmap, backlog, UAT, stage gates, readiness, launch governance
+├── 10-engineering/
 │   └── Engineering standards, implementation playbook, testing, CI/CD
-├── 09-operations/
-│   └── Monitoring, backup/DR, incident response
-├── 10-delivery/
-│   └── MVP plan, roadmap, scorecards, readiness, requirements traceability
-└── 11-contracts/
-    └── Technical contracts and legal agreement requirements
+└── 11-operations/
+    └── Monitoring, support, backup/DR, incident response, live operations
 ```
 
 See [the documentation index](docs/README.md) for direct links to all current project documents.
@@ -211,18 +214,18 @@ See [the documentation index](docs/README.md) for direct links to all current pr
 
 | Layer | Purpose | Open |
 |---|---|---|
-| 00 Governance | Decisions, stakeholders, risks, experts, scope, project control | [Open folder](docs/00-governance/) |
-| 01 Product | Product vision, scope, and requirements | [Open folder](docs/01-product/) |
-| 02 Requirements | SRS, access, measurable system requirements | [Open folder](docs/02-requirements/) |
-| 03 Clinical | Clinical workflow, safety, verification, specialty design | [Open folder](docs/03-clinical/) |
-| 04 Architecture | C4, domain, data, and integration architecture | [Open folder](docs/04-architecture/) |
-| 05 Security | Privacy, threat model, security architecture, data protection | [Open folder](docs/05-security/) |
-| 06 Decisions | ADRs, vendor/platform decisions, evidence matrices | [Open folder](docs/06-decisions/) |
-| 07 Research | Source evidence, evaluation, questionnaires, desk research | [Open folder](docs/07-research/) |
-| 08 Engineering & Implementation | How software is built, tested, secured, configured, and deployed | [Open folder](docs/08-engineering/) |
-| 09 Operations | How the live service is monitored, supported, recovered, and operated | [Open folder](docs/09-operations/) |
-| 10 Delivery | Roadmap, backlog, stage gates, UAT, readiness, launch governance | [Open folder](docs/10-delivery/) |
-| 11 Contracts | Technical contracts and legal agreement requirements | [Open folder](docs/11-contracts/) |
+| 00 Governance | Project control, stakeholders, experts, risks, scope, decisions | [Open folder](docs/00-governance/) |
+| 01 Product | Product purpose, scope, and PRD | [Open folder](docs/01-product/) |
+| 02 Requirements | SRS, access model, functional and non-functional requirements | [Open folder](docs/02-requirements/) |
+| 03 Clinical | Clinical workflow, safety, professional verification, specialty design | [Open folder](docs/03-clinical/) |
+| 04 Research & Evidence | Source material, desk research, field evidence, evaluation | [Open folder](docs/04-research/) |
+| 05 Architecture | C4, domain, data, and integration architecture | [Open folder](docs/05-architecture/) |
+| 06 Security & Privacy | Privacy, threat model, security architecture, data protection | [Open folder](docs/06-security/) |
+| 07 Decisions | ADRs, platform/vendor evidence, Build/Buy/Partner decisions | [Open folder](docs/07-decisions/) |
+| 08 Contracts | Technical contracts and legal agreement requirements | [Open folder](docs/08-contracts/) |
+| 09 Delivery | Roadmap, backlog, stage gates, UAT, readiness, launch governance | [Open folder](docs/09-delivery/) |
+| 10 Engineering & Implementation | Build, test, secure, configure, deploy, hand over | [Open folder](docs/10-engineering/) |
+| 11 Operations | Monitor, support, recover, and operate the live service | [Open folder](docs/11-operations/) |
 
 For the complete clickable document-level index, open **[docs/README.md](docs/README.md)**.
 
