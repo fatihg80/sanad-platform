@@ -4,8 +4,24 @@
 
 The project aims to create a structured, secure, and accountable way for local doctors to access specialist advice, particularly in settings where conflict, workforce displacement, and limited connectivity have reduced access to senior clinical expertise.
 
-> **Current stage:** Foundation, discovery, architecture, and pilot planning.  
+> **Current stage:** Evidence collection, expert review, decision closure, and pilot preparation.  
 > **Working model:** Doctor-to-doctor tele-expertise, not direct-to-patient telemedicine.
+
+## Current Phase: Evidence and Decision Closure
+
+The pre-implementation documentation baseline is substantially established.
+
+The project is now using that baseline to collect real evidence and close the decisions that cannot be responsibly made from desk assumptions alone, including:
+
+- pilot specialty;
+- partner facilities;
+- platform / vendor choice;
+- legal and regulatory feasibility;
+- hosting and data residency;
+- consultant eligibility and indemnity;
+- evaluation and research governance.
+
+A central **Expert Review Register** identifies which decisions require clinical, legal, privacy, security, research, commercial, finance, insurance, infrastructure, UX, or health-informatics expertise. The Project Manager is expected to engage those specialists before the corresponding decision gate is closed.
 
 ## Why Sanad
 
@@ -284,5 +300,5 @@ Clinical, legal, regulatory, data protection, professional, and patient-safety r
 **Project:** Sanad  
 **Primary model:** Provider-to-provider tele-expertise  
 **Geographic focus:** Sudan  
-**Stage:** Early-stage / Pilot planning and architecture  
+**Stage:** Evidence collection / decision closure / pilot preparation  
 **Repository purpose:** Product, clinical, architecture, governance, security, engineering, operations, research, and delivery documentation
