@@ -18,6 +18,7 @@
 | DEC-011 | Hosting region/data residency | Open | Legal/Technology | Hosting Options |
 | DEC-012 | Final retention schedule | Open | Legal/Clinical | Retention Template |
 | DEC-013 | Final SLA clock/service hours | Open | Clinical/Operations | Response Time Policy Model |
+| DEC-014 | Repository licence, contributor IP terms, and any future assignment to the Sanad legal entity | Open | Project Lead + Legal | NOTICE.md + AUTHORS.md + ER-28 |
 
 ## Rule
 
