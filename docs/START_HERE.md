@@ -4,6 +4,62 @@
 **Status:** Active  
 **Audience:** All project participants
 
+## Quick Navigation
+
+### Core Sections
+
+- [1. Why This Manual Exists](#1-why-this-manual-exists)
+- [2. First Rule: Do Not Read the Repository Like a Book](#2-first-rule-do-not-read-the-repository-like-a-book)
+- [3. Recommended Starting Path for Everyone](#3-recommended-starting-path-for-everyone)
+- [4. Folder-by-Folder Guide](#4-folder-by-folder-guide)
+- [5. Role-Specific Reading Paths](#5-role-specific-reading-paths)
+- [6. Document Lifecycle](#6-document-lifecycle)
+- [7. How to Comment or Propose a Change](#7-how-to-comment-or-propose-a-change)
+- [8. How to Know Whether You Can Approve Something](#8-how-to-know-whether-you-can-approve-something)
+- [9. When Implementation Begins](#9-when-implementation-begins)
+- [10. The Most Important Rule](#10-the-most-important-rule)
+
+### Jump to a Documentation Layer
+
+- [00 Governance](#00-governance) → [Open folder](00-governance/)
+- [01 Product](#01-product) → [Open folder](01-product/)
+- [02 Requirements](#02-requirements) → [Open folder](02-requirements/)
+- [03 Clinical](#03-clinical) → [Open folder](03-clinical/)
+- [04 Research & Evidence](#04-research) → [Open folder](04-research/)
+- [05 Architecture](#05-architecture) → [Open folder](05-architecture/)
+- [06 Security & Privacy](#06-security) → [Open folder](06-security/)
+- [07 Decisions](#07-decisions) → [Open folder](07-decisions/)
+- [08 Contracts](#08-contracts) → [Open folder](08-contracts/)
+- [09 Delivery](#09-delivery) → [Open folder](09-delivery/)
+- [10 Engineering & Implementation](#10-engineering) → [Open folder](10-engineering/)
+- [11 Operations](#11-operations) → [Open folder](11-operations/)
+
+### Jump by Role
+
+- [Project Manager](#project-manager)
+- [Clinical Expert / Specialty Lead](#clinical-expert--specialty-lead)
+- [Legal / Regulatory Expert](#legal--regulatory-expert)
+- [Privacy / DPO](#privacy--dpo)
+- [Security Expert](#security-expert)
+- [Software Engineer / Architect](#software-engineer--architect)
+- [Public Health / Research / Evaluation](#public-health--research--evaluation)
+- [Operations / Support](#operations--support)
+
+### High-Value Direct Links
+
+- [Project Status](00-governance/PROJECT_STATUS.md)
+- [Evidence & Decision Readiness Dashboard](00-governance/EVIDENCE_DECISION_READINESS_DASHBOARD.md)
+- [Scope Guardrails](00-governance/SCOPE_GUARDRAILS.md)
+- [Expert Review Register](00-governance/EXPERT_REVIEW_REGISTER.md)
+- [Evidence Intake Register](04-research/EVIDENCE_INTAKE_REGISTER.md)
+- [Field Evidence Collection Runbook](04-research/FIELD_EVIDENCE_COLLECTION_RUNBOOK.md)
+- [Specialty Decision Evidence Table](04-research/SPECIALTY_DECISION_EVIDENCE_TABLE.md)
+- [Platform Evidence Matrix](07-decisions/PLATFORM_EVIDENCE_MATRIX.md)
+- [Engineering & Implementation Playbook](10-engineering/IMPLEMENTATION_PLAYBOOK.md)
+- [Go-Live Readiness Checklist](09-delivery/GO_LIVE_READINESS_CHECKLIST.md)
+
+---
+
 ## 1. Why This Manual Exists
 
 Sanad is a multidisciplinary project.
@@ -69,11 +125,11 @@ Implementation / pilot
 
 Read:
 
-1. `README.md`
-2. `docs/START_HERE.md`
-3. `docs/00-governance/PROJECT_STATUS.md`
-4. `docs/00-governance/SCOPE_GUARDRAILS.md`
-5. `docs/00-governance/GLOSSARY.md`
+1. [README](../README.md)
+2. [START_HERE](START_HERE.md)
+3. [Project Status](00-governance/PROJECT_STATUS.md)
+4. [Scope Guardrails](00-governance/SCOPE_GUARDRAILS.md)
+5. [Glossary](00-governance/GLOSSARY.md)
 
 After these documents, a contributor should understand:
 
