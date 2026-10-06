@@ -60,6 +60,7 @@ This folder contains the working product, clinical, technical, security, governa
 - [Minimum Evaluation Dataset](04-research/MINIMUM_EVALUATION_DATASET.md)
 - [Evidence Collection Plan](04-research/EVIDENCE_COLLECTION_PLAN.md)
 - [Field Evidence Collection Runbook](04-research/FIELD_EVIDENCE_COLLECTION_RUNBOOK.md)
+- [Field Evidence Batch 01 Tracker](04-research/FIELD_EVIDENCE_BATCH_01_TRACKER.md)
 - [Specialty Evidence Questionnaire](04-research/SPECIALTY_EVIDENCE_QUESTIONNAIRE.md)
 - [Local Doctor Evidence Form](04-research/LOCAL_DOCTOR_EVIDENCE_FORM.md)
 - [Facility Evidence Form](04-research/FACILITY_EVIDENCE_FORM.md)
