@@ -111,3 +111,13 @@
 - Updated VSee evidence: Enterprise publicly supports asynchronous eConsult including provider-to-provider use.
 - Added evidence-backed Pilot Specialty Desk Review and Specialty Evidence Questionnaire.
 - Current desk evidence does not constitute specialty selection; local evidence and clinical expert review remain blocking.
+
+
+### Multidisciplinary navigation, stakeholders, and implementation layer
+- Added `docs/START_HERE.md` as the multidisciplinary documentation manual.
+- Added role-specific reading paths for project management, clinical, legal, privacy, security, engineering, public health/research, and operations.
+- Added Stakeholder Register and Stakeholder Engagement Matrix.
+- Added Internal and External Factors Analysis using an internal-capability and PESTLE-style external context.
+- Added explicit `12-implementation/` layer to connect approved requirements to development, testing, security assurance, deployment, and production handover.
+- Clarified that `08-engineering` defines engineering standards, `09-operations` defines live-service operations, `10-delivery` defines stage/governance delivery, and `12-implementation` orchestrates execution order.
+- Updated root README and documentation index so new contributors are directed to START_HERE first.
