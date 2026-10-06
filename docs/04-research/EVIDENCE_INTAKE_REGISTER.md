@@ -38,6 +38,17 @@ A critical decision must not be closed using desk evidence alone where the decis
 | E-016 | 2026-10-06 | Official technical docs | CHT localization documentation | Arabic bundled; RTL mirrored UI supported from CHT 4.18.0 | CHT | High | Language/UX platform fit | Validated |
 | E-017 | 2026-10-06 | Official vendor material | Intelehealth WHO webinar / product material | Offline-first design and teleconsult operation without continuous internet; multilingual support | Intelehealth | High | Offline/platform fit | Validated |
 
+## Reserved IDs — Field Evidence Batch 01
+
+**Batch:** FE-B01  
+**Tracker:** [FIELD_EVIDENCE_BATCH_01_TRACKER.md](FIELD_EVIDENCE_BATCH_01_TRACKER.md)
+
+- Local doctors: **F-001 to F-010**
+- Facilities: **F-100 to F-102**
+- Diaspora consultants: **F-200 to F-205**
+
+All reserved IDs remain **Planned** until an actual response is collected and validated.
+
 ## Planned Field Evidence
 
 | Evidence ID | Source Type | Required Input | Decision(s) | Status |
