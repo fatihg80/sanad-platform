@@ -1,7 +1,7 @@
 # Specialty Decision Evidence Table
 
 **Version:** 1.0  
-**Status:** Ready for field evidence
+**Status:** Desk evidence linked; field evidence pending
 
 ## Purpose
 
@@ -30,12 +30,12 @@ For every scored cell record the supporting IDs.
 
 | Specialty | Key Evidence IDs | Major Evidence Gaps |
 |---|---|---|
-| Dermatology | Desk review: existing; Field: | |
-| Internal Medicine | Desk review: existing; Field: | |
-| Paediatrics | Desk review: existing; Field: | |
-| Radiology | Desk review: existing; Field: | |
-| OB/GYN | Desk review: existing; Field: | |
-| General Surgery | Desk review: existing; Field: | |
+| Dermatology | E-010; Field: pending F-001+/F-100+/F-200+ | Local need, consultant supply, facility volume, image capability |
+| Internal Medicine | E-015; Field: pending F-001+/F-100+/F-200+ | Scope must be narrowed; local need/volume/resources |
+| Paediatrics | E-012; Field: pending F-001+/F-100+/F-200+ | Emergency exclusions, age-specific workflow, consultant supply |
+| Radiology | E-011; Field: pending F-001+/F-100+/F-200+ | Imaging infrastructure, bandwidth, formal-reporting/legal model |
+| OB/GYN | E-013; Field: pending F-001+/F-100+/F-200+ | Emergency boundary, maternal/fetal risk, local leadership |
+| General Surgery | E-014; Field: pending F-001+/F-100+/F-200+ | Physical-exam dependency, emergency exclusions, referral logistics |
 
 ## Exclusion Gate
 
