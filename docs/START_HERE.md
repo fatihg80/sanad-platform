@@ -137,367 +137,89 @@ A material review should update:
 
 # 4. Folder-by-Folder Guide
 
+The numbering expresses the primary working sequence. Some folders remain active throughout the project, especially Governance, Research, Security, Delivery, and Operations.
+
 ## 00-governance
 
-### Purpose
+**Purpose:** Controls project scope, ownership, stakeholders, risks, expert involvement, and decision governance.
 
-Controls how the project is managed and how decisions are made.
-
-### Contains
-
-- project status;
-- scope;
-- RACI;
-- stakeholders;
-- risks;
-- assumptions;
-- dependencies;
-- issues;
-- decisions;
-- expert reviews;
-- quality;
-- communication;
-- change governance.
-
-### Who should use it
-
-Everyone, especially:
-
-- Project Manager;
-- Project Lead;
-- Clinical Governance;
-- Legal;
-- Technology Lead;
-- Operations Lead.
-
-### Key rule
-
-This folder answers:
-
-> Who decides, who reviews, what is open, what is blocked, and what is the current state?
-
----
+**Use it to answer:** Who decides? What is open? What is blocked? Which expert must be involved?
 
 ## 01-product
 
-### Purpose
+**Purpose:** Defines what Sanad is trying to achieve and why.
 
-Explains what product/service Sanad is trying to create and why.
-
-### Main document
-
-- `PRD.md`
-
-### Who should use it
-
-- Product;
-- Clinical;
-- Public Health;
-- Founding Team;
-- Technology;
-- Operations.
-
-### Key rule
-
-Product documents define **what and why**, not detailed implementation.
-
----
+**Main focus:** Product scope, users, value, and PRD.
 
 ## 02-requirements
 
-### Purpose
+**Purpose:** Converts product intent into explicit, testable system requirements.
 
-Turns product intent into explicit system requirements.
-
-### Contains
-
-- SRS;
-- functional/non-functional requirements;
-- access-control matrix;
-- measurable NFRs.
-
-### Who should use it
-
-- Technology;
-- QA;
-- Security;
-- Product;
-- Clinical reviewers.
-
-### Key rule
-
-A feature should not be built merely because it was discussed verbally. It should trace back to a requirement.
-
----
+**Main focus:** SRS, access control, functional requirements, measurable NFRs.
 
 ## 03-clinical
 
-### Purpose
+**Purpose:** Defines the clinical operating model and patient-safety boundaries.
 
-Defines the clinical service workflow and safety boundaries.
+**Main focus:** Workflow, templates, professional verification, safety hazards, priority/escalation.
 
-### Contains
+**Rule:** Technology cannot approve clinical decisions.
 
-- clinical workflow;
-- case template;
-- professional verification;
-- response/escalation model;
-- clinical safety hazard log;
-- specialty-selection framework.
+## 04-research
 
-### Who should use it
+**Purpose:** Holds the evidence that informs decisions.
 
-- Clinical Governance;
-- Specialty Leads;
-- Local Doctors;
-- Consultants;
-- Public Health;
-- Product;
-- Legal where clinical responsibility is affected.
+**Main focus:** Founding source, literature, field questionnaires, facility/doctor/consultant evidence, evaluation protocol, minimum dataset.
 
-### Key rule
+**Rule:** Evidence informs a decision; it is not automatically an approved requirement.
 
-Technology cannot approve clinical decisions.
+## 05-architecture
 
----
+**Purpose:** Translates approved needs into a coherent technical design.
 
-## 04-architecture
+**Main focus:** C4, domain model, data architecture, integration principles.
 
-### Purpose
+## 06-security
 
-Describes how the system may be structured technically.
+**Purpose:** Defines privacy, security, data-protection, and safety controls that constrain architecture and implementation.
 
-### Contains
+**Main focus:** Threat model, security architecture, DPIA, retention, data flows, hosting/data residency.
 
-- C4 architecture;
-- domain model;
-- data architecture;
-- API/integration principles.
+## 07-decisions
 
-### Who should use it
+**Purpose:** Records material choices and the evidence behind them.
 
-- Software Architects;
-- Engineers;
-- Security;
-- DevOps/SRE;
-- Technical Product Leads.
+**Main focus:** ADRs, Build vs Buy vs Partner, vendor/platform evidence and scoring.
 
-### Key rule
+**Rule:** Alternatives and consequences must remain visible.
 
-Architecture remains Proposed until the platform and hosting decisions are closed.
+## 08-contracts
 
----
+**Purpose:** Defines boundaries before implementation and procurement commitments.
 
-## 05-security
+**Main focus:** API, event, data, and service contracts plus legal agreement requirements.
 
-### Purpose
+**Rule:** Engineering owns technical contracts; qualified counsel approves binding legal agreements.
 
-Protects patients, clinicians, data, systems, and operational safety.
+## 09-delivery
 
-### Contains
+**Purpose:** Converts approved scope and decisions into an executable project route.
 
-- privacy requirements;
-- threat model;
-- security architecture;
-- data-flow inventory;
-- DPIA template;
-- retention;
-- audit events;
-- hosting/data residency.
+**Main focus:** Roadmap, backlog, scorecards, traceability, UAT, stage gates, readiness, launch governance.
 
-### Who should use it
+**Use it to answer:** What happens next, and what must be true before we advance?
 
-- Security;
-- Privacy/DPO;
-- Legal;
-- Technology;
-- Clinical Governance.
+## 10-engineering
 
-### Key rule
+**Purpose:** Defines how the selected solution is built or adapted, tested, secured, configured, deployed, and handed over.
 
-Security and privacy are design constraints, not tasks left until deployment.
+**Main focus:** Engineering standards, implementation playbook, test strategy, CI/CD, environments, configuration.
 
----
+## 11-operations
 
-## 06-decisions
+**Purpose:** Defines how the live service is monitored, supported, recovered, trained, and operated.
 
-### Purpose
-
-Stores important product/technical decision evidence and ADRs.
-
-### Contains
-
-- Build vs Buy vs Partner;
-- ADRs;
-- platform evidence;
-- vendor evaluation;
-- vendor demonstration script.
-
-### Who should use it
-
-- Project Lead;
-- Technology Lead;
-- Clinical Governance;
-- Security;
-- Privacy;
-- Procurement.
-
-### Key rule
-
-A decision should record alternatives and consequences, not only the final choice.
-
----
-
-## 07-research
-
-### Purpose
-
-Stores evidence, literature, source analysis, pilot evaluation, and field-research instruments.
-
-### Contains
-
-- founding source notes;
-- platform evidence;
-- specialty evidence;
-- evaluation protocol;
-- minimum dataset;
-- questionnaires.
-
-### Who should use it
-
-- Public Health;
-- Researchers;
-- Clinical;
-- Project Manager;
-- Product.
-
-### Key rule
-
-Evidence here informs decisions. It does not automatically become an approved requirement.
-
----
-
-## 08-engineering
-
-### Purpose
-
-Defines how software should be designed, built, tested, secured, configured, deployed, and handed over.
-
-### Contains
-
-- engineering standards;
-- implementation playbook;
-- test strategy;
-- CI/CD;
-- environment strategy;
-- configuration management.
-
-### Who should use it
-
-- Engineering;
-- QA;
-- DevOps;
-- Security;
-- Technical Lead.
-
-### Key rule
-
-This folder contains both engineering discipline and the execution playbook. It answers **how the approved system is implemented**. It does not own business scope or project stage approval.
-
----
-
-## 09-operations
-
-### Purpose
-
-Defines how the live service is operated.
-
-### Contains
-
-- monitoring;
-- backup/DR;
-- incident response;
-- notifications;
-- support;
-- training;
-- release management;
-- pilot runbook.
-
-### Who should use it
-
-- Operations;
-- Technology;
-- Clinical Governance;
-- Support;
-- Project Manager.
-
-### Key rule
-
-A technically working product is not operationally ready until these processes exist.
-
----
-
-## 10-delivery
-
-### Purpose
-
-Turns plans into a controlled route toward the pilot.
-
-### Contains
-
-- roadmap;
-- MVP plan;
-- backlog;
-- UAT;
-- readiness;
-- scorecards;
-- traceability;
-- launch governance.
-
-### Who should use it
-
-- Project Manager;
-- Product;
-- Technology;
-- Clinical;
-- Operations.
-
-### Key rule
-
-This folder answers:
-
-> What must happen before we can safely move to the next stage?
-
----
-
-## 11-contracts
-
-### Purpose
-
-Defines technical interface contracts and legal agreement requirements.
-
-### Contains
-
-- API contracts;
-- event contracts;
-- data contracts;
-- service contracts;
-- legal agreement requirements.
-
-### Who should use it
-
-- Engineering;
-- Integration Teams;
-- Legal;
-- Procurement;
-- Privacy;
-- Vendors.
-
-### Key rule
-
-Technical contracts can be designed by engineering.
-
-Binding legal contracts require qualified legal counsel.
+**Main focus:** Runbooks, monitoring, backup/DR, support, incident response, training, release operations.
 
 ---
 
@@ -752,7 +474,7 @@ Continue / Modify / Pause / Stop
 
 Detailed execution guidance is in:
 
-`docs/08-engineering/IMPLEMENTATION_PLAYBOOK.md`
+`docs/10-engineering/IMPLEMENTATION_PLAYBOOK.md`
 
 ---
 
