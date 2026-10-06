@@ -120,3 +120,11 @@ Audit:
 The exact acceptable verification evidence must be agreed with relevant professional/regulatory stakeholders.
 
 Engineering cannot determine professional eligibility independently.
+
+## Required Expert Review
+
+**Level:** Blocking before live professional activation.
+
+**Experts:** Clinical Governance, relevant professional regulator/adviser, Healthcare Legal Counsel, and Indemnity/Insurance specialist.
+
+**Review:** acceptable evidence, registration status, cross-border eligibility, expiry/reverification, suspension, and indemnity conditions.
