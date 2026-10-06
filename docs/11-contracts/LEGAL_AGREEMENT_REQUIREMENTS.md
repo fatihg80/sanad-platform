@@ -111,3 +111,11 @@ Should clarify:
 Project documents may define requirements.
 
 Only qualified legal counsel should produce/approve binding agreement language for live use.
+
+## Required Expert Review
+
+**Level:** Blocking before any binding agreement is signed.
+
+**Experts:** Qualified Legal Counsel for each relevant jurisdiction, Privacy Counsel/DPO for data clauses, Indemnity/Insurance expert, Sanctions/Compliance specialist where applicable.
+
+This repository defines requirements only; final binding language must be drafted or approved by counsel.
