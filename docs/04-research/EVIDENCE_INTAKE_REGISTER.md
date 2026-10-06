@@ -35,6 +35,8 @@ A critical decision must not be closed using desk evidence alone where the decis
 | E-013 | 2026-10-06 | Peer-reviewed literature | OB/GYN telehealth and maternal-health reviews | Telehealth potential with emergency-boundary complexity | OB/GYN | Medium | Specialty shortlist | Validated desk evidence |
 | E-014 | 2026-10-06 | Peer-reviewed literature | Surgical telemedicine reviews | Consultation/follow-up potential; physical-exam limitations | General Surgery | Medium | Specialty shortlist | Validated desk evidence |
 | E-015 | 2026-10-06 | Peer-reviewed literature | Provider-to-provider eConsult / asynchronous consultation reviews | Broad async specialist-support evidence | Internal Medicine / general eConsult | Medium/High | Specialty/model fit | Validated desk evidence |
+| E-016 | 2026-10-06 | Official technical docs | CHT localization documentation | Arabic bundled; RTL mirrored UI supported from CHT 4.18.0 | CHT | High | Language/UX platform fit | Validated |
+| E-017 | 2026-10-06 | Official vendor material | Intelehealth WHO webinar / product material | Offline-first design and teleconsult operation without continuous internet; multilingual support | Intelehealth | High | Offline/platform fit | Validated |
 
 ## Planned Field Evidence
 
@@ -58,6 +60,8 @@ A critical decision must not be closed using desk evidence alone where the decis
 - E-007: https://docs.communityhealthtoolkit.org/building/users/
 - E-008: https://docs.communityhealthtoolkit.org/technical-overview/data/
 - E-009: https://openmrs.org/openmrs-3-7-1-is-out/
+- E-016: https://docs.communityhealthtoolkit.org/building/translations/localizing/
+- E-017: https://intelehealth.org/wp-content/uploads/2025/08/WHO-Webinar-Aug-7th.pdf
 
 Specialty literature URLs are retained in `PILOT_SPECIALTY_DESK_EVIDENCE_REVIEW.md`.
 
