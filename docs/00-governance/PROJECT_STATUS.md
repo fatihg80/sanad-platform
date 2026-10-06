@@ -68,6 +68,14 @@ The repository deliberately distinguishes:
 - environment strategy
 - configuration management
 
+### Implementation execution
+- implementation lifecycle
+- development execution plan
+- testing and verification execution
+- security assurance execution
+- deployment and release execution
+- production handover checklist
+
 ### Operations
 - observability and monitoring
 - backup/disaster recovery
@@ -84,6 +92,9 @@ The repository deliberately distinguishes:
 - UAT/acceptance plan
 
 ### Governance
+- multidisciplinary documentation manual / Start Here
+- stakeholder register and engagement matrix
+- internal/external factors analysis
 - expert engagement policy and expert review register
 - risk register
 - assumptions register
