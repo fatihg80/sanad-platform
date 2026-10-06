@@ -159,3 +159,12 @@
 Alfatih Abdalla contributed to Sanad in a consulting capacity after being engaged by Dr. Elaf Sabri Khalil. His contribution in this repository is limited to structuring the repository, documentation layers, analysis, and related consulting work based on Dr. Elaf’s founding materials. This attribution does **not** represent Alfatih Abdalla as the founder or owner of Sanad.
 
 Source materials and third-party contributions retain their respective authorship and rights.
+
+
+### Attribution correction: project founder vs consulting contributor
+- Corrected repository-wide attribution so that **Dr. Elaf Sabri Khalil** is explicitly identified as the Founder of Sanad and the source associated with the Founding Team Prospectus.
+- Clarified that **Alfatih Abdalla** participated only in a consulting capacity after being engaged by Dr. Elaf.
+- Clarified that Alfatih's contribution is limited to repository structuring, documentation architecture/methodology expression, analysis, and related consulting work based on Dr. Elaf's founding materials.
+- Removed wording that could imply that Alfatih is the founder, owner, or originator of Sanad.
+- Updated README, AUTHORS, NOTICE, CONTRIBUTING, Project Status, Founding Prospectus Source Notes, and repository-wide document attribution.
+- This change corrects attribution and does not change the Sanad project concept or source content.
