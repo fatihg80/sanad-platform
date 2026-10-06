@@ -117,6 +117,72 @@ Outputs:
 
 **Required Expert Review:** Privacy, Legal, Security, Infrastructure/SRE.
 
+## Field Collection Operating Sequence
+
+### Step 1: Assign Evidence IDs
+
+Before collection, reserve an ID range in `EVIDENCE_INTAKE_REGISTER.md`:
+
+- F-001+ Local Doctors
+- F-100+ Facilities
+- F-200+ Consultants
+- F-300+ Vendors
+- F-400+ Legal/Regulatory Experts
+- F-500+ Security/Privacy Experts
+- F-600+ Research/Public Health Experts
+
+### Step 2: Use the Correct Form
+
+- Local doctor → `LOCAL_DOCTOR_EVIDENCE_FORM.md`
+- Facility → `FACILITY_EVIDENCE_FORM.md`
+- Consultant → `CONSULTANT_EVIDENCE_FORM.md`
+- Vendor/platform → `../07-decisions/VENDOR_EVIDENCE_CAPTURE_FORM.md`
+- Expert review → `../00-governance/EXPERT_REVIEW_REQUEST_TEMPLATE.md`
+
+### Step 3: Do Not Collect Patient Data
+
+Field discovery forms must not contain patient names, IDs, clinical images, or identifiable case narratives.
+
+Use aggregate/approximate service information during discovery.
+
+### Step 4: Record Provenance
+
+For each response capture:
+
+- respondent/source type;
+- date;
+- collector;
+- evidence ID;
+- whether information is direct or estimated;
+- supporting document if available;
+- evidence quality.
+
+### Step 5: Validate Before Scoring
+
+Evidence should be checked for:
+
+- completeness;
+- internal consistency;
+- whether it represents current conditions;
+- whether multiple respondents independently support the claim;
+- potential conflict of interest.
+
+### Step 6: Update Decision Tables
+
+Validated evidence should update:
+
+- `SPECIALTY_DECISION_EVIDENCE_TABLE.md`;
+- partner/facility scorecards;
+- `PLATFORM_EVIDENCE_MATRIX.md`;
+- Vendor Evaluation Matrix;
+- relevant Risk/Assumption/Decision registers.
+
+### Step 7: Expert Interpretation
+
+Weighted scores are decision aids, not automatic decisions.
+
+Clinical, public-health, technology, security, privacy, commercial, and legal reviewers must interpret the evidence according to their authority.
+
 ## Evidence Handling
 
 Every evidence item should record:
