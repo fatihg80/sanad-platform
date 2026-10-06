@@ -14,30 +14,36 @@ Legend:
 
 | Requirement | Intelehealth | VSee Enterprise | CHT | Custom MVP |
 |---|---:|---:|---:|---:|
-| Provider-to-provider | C | C | P | Designable |
-| Asynchronous specialist workflow | D | C | D | Designable |
-| Low-bandwidth orientation | C | U/D | C | Designable/test |
-| Offline-first | P/D | U | C | Proposed limited |
+| Provider-to-provider | C [E-002] | C [E-004/E-005] | P | Designable |
+| Asynchronous specialist workflow | D | C [E-004/E-005] | D | Designable |
+| Low-bandwidth orientation | C [E-003] | U/D | C [E-006] | Designable/test |
+| Offline-first | P/D | U | C [E-006/E-008] | Proposed limited |
 | Arabic / RTL | U | U | P/D | Designable |
-| Structured case forms | C/P | C | C | Designable |
-| Routing | D | C/P | D | Designable |
-| Written advice | D | C | D | Designable |
+| Structured case forms | C/P [E-002] | C [E-004] | C [E-006/E-007] | Designable |
+| Routing | D | C/P [E-004] | D | Designable |
+| Written advice | D | C [E-005] | D | Designable |
 | Advice addenda/history | U | U | U | Designable |
 | Outcomes | D | D | D | Designable |
 | Second opinion | U | U | U | Designable |
 | Clinical governance | P | D | D | Designable |
-| Contextual record access | U | D | P | Designable |
-| Roles/permissions | C/P | C/P | C | Designable |
-| MFA | U | C | U/D | Designable |
+| Contextual record access | U | D | P [E-007] | Designable |
+| Roles/permissions | C/P | C/P [E-004] | C [E-007] | Designable |
+| MFA | U | C [E-004] | U/D | Designable |
 | Auditability | D | D | D | Designable |
 | Data export | D | D | C/P | Designable |
-| API/integration | C/P | C | C | Designable |
-| FHIR path | C | D | Integration possible | Future |
+| API/integration | C/P [E-002] | C [E-004] | C/P | Designable |
+| FHIR path | C [E-002/E-003] | D | Integration possible | Future |
 | Hosting/data residency control | D | D | P/self-host | Designable |
-| Open source | C | No/commercial | C | Yes if owned |
+| Open source | C [E-002] | No/commercial [E-004] | C | Yes if owned |
 | Vendor lock-in risk | P | High/contract-dependent | Lower/self-host | Lowest product lock-in |
 | Pilot implementation speed | D | D | D | Estimate required |
 | 2-year TCO | U | U | U | Estimate required |
+
+## Evidence Traceability
+
+Evidence IDs refer to `docs/04-research/EVIDENCE_INTAKE_REGISTER.md`.
+
+Cells without an Evidence ID remain unverified or demonstration-dependent.
 
 ## Interpretation
 
