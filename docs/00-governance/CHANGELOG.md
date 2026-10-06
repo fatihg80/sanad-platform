@@ -154,3 +154,15 @@
 [Email](mailto:Fabdalla782@gmail.com) · [LinkedIn](https://www.linkedin.com/in/alfatihabdalla) · [GitHub](https://github.com/fatihg80)
 
 © 2026 Alfatih Abdalla. This attribution applies to Alfatih Abdalla’s original documentation contributions and organizational expression in this repository. Source materials and third-party contributions retain their respective authorship and rights.
+
+
+### Authorship attribution and evidence traceability
+- Added repository-wide documentation attribution for Alfatih Abdalla.
+- Added root `AUTHORS.md`, `NOTICE.md`, and `CONTRIBUTING.md`.
+- Added standard attribution footer to Markdown documentation, while preserving source and third-party authorship boundaries.
+- Added ER-28 for intellectual-property, contributor ownership, licensing, and future entity-assignment review.
+- Added DEC-014 to keep repository licensing and contributor IP terms as an explicit open governance decision.
+- Populated Evidence Intake Register with source/desk Evidence IDs E-001 through E-015.
+- Linked platform evidence matrix claims to explicit Evidence IDs.
+- Linked specialty screening evidence to Evidence IDs while leaving field-dependent scores unfilled.
+- Operationalized the field evidence collection sequence for doctors, facilities, consultants, vendors, and specialist reviewers.
