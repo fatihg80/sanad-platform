@@ -343,7 +343,7 @@ The Sanad documentation framework, repository structure, documentation methodolo
 - LinkedIn: [linkedin.com/in/alfatihabdalla](https://www.linkedin.com/in/alfatihabdalla)
 - GitHub: [github.com/fatihg80](https://github.com/fatihg80)
 
-See [AUTHORS.md](AUTHORS.md) and [NOTICE.md](NOTICE.md) for attribution scope and source-material boundaries.
+See [AUTHORS.md](AUTHORS.md) and [NOTICE.md](NOTICE.md) for attribution scope and source-material boundaries. Contributors should also follow [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Important Notice
 
