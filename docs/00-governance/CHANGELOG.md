@@ -132,3 +132,16 @@
   - `10-delivery`: how project stages, backlog, readiness, acceptance, and launch governance are managed.
 - Added a clickable Documentation Map to the root README.
 - Updated START_HERE and the documentation index to remove references to the retired implementation layer.
+
+
+### Lifecycle reorder and field evidence instruments
+- Reordered numbered documentation folders by actual dependency/workflow rather than creation date.
+- New order: Governance → Product → Requirements → Clinical → Research/Evidence → Architecture → Security/Privacy → Decisions → Contracts → Delivery → Engineering/Implementation → Operations.
+- Moved all affected files and updated root README, START_HERE, and document index.
+- Added Local Doctor Evidence Form.
+- Added Facility Evidence Form.
+- Added Diaspora Consultant Evidence Form.
+- Added central Evidence Intake Register with traceable Evidence IDs.
+- Added Specialty Decision Evidence Table.
+- Added Vendor Evidence Capture Form.
+- Evidence scores must now reference collected Evidence IDs rather than unsupported judgement.
