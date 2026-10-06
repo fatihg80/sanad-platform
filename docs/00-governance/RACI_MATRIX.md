@@ -27,3 +27,12 @@ Legend:
 | Go-live decision | A | A for clinical safety | C | A for technical readiness | A for operations | A for legal/privacy readiness | C |
 
 Multiple accountabilities in the go-live row indicate cross-functional sign-off rather than one person owning all risk.
+
+---
+
+### Documentation Attribution
+
+**Documentation framework, repository structure, methodology expression, and original authored contributions:** **Alfatih Abdalla**  
+[Email](mailto:Fabdalla782@gmail.com) · [LinkedIn](https://www.linkedin.com/in/alfatihabdalla) · [GitHub](https://github.com/fatihg80)
+
+© 2026 Alfatih Abdalla. This attribution applies to Alfatih Abdalla’s original documentation contributions and organizational expression in this repository. Source materials and third-party contributions retain their respective authorship and rights.
