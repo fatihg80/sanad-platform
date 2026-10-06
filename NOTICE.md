@@ -1,48 +1,64 @@
 # Attribution and Rights Notice
 
-## Documentation Attribution
+## Project Origin
 
-The documentation framework, repository structure, documentation methodology expression, and original authored product/technical documentation contributions in this repository are attributed to:
+The Sanad founding materials identify:
 
-**Alfatih Abdalla**  
-Email: [Fabdalla782@gmail.com](mailto:Fabdalla782@gmail.com)  
-LinkedIn: [linkedin.com/in/alfatihabdalla](https://www.linkedin.com/in/alfatihabdalla)  
-GitHub: [github.com/fatihg80](https://github.com/fatihg80)
+**Dr. Elaf Sabri Khalil**  
+as the **Founder of Sanad** and the source associated with the **Sanad Founding Team Prospectus** used as the primary source for structuring this repository.
 
-© 2026 Alfatih Abdalla. All rights reserved with respect to Alfatih Abdalla’s original copyrightable contributions, subject to any later written licence or agreement.
+Contact:
 
-## Scope of This Notice
+- Email: [elafsabri515@gmail.com](mailto:elafsabri515@gmail.com)
+- LinkedIn: [linkedin.com/in/elaf-sabri-khalil-68097024a](https://www.linkedin.com/in/elaf-sabri-khalil-68097024a)
 
-This notice documents authorship and attribution for original expression, organisation, written analysis, and documentation contributions created for this repository. It does **not** claim ownership over:
+## Consulting Documentation Contribution
 
-- the underlying Sanad founding concept where separately authored;
-- the original Founding Team Prospectus or other source material authored by others;
-- facts, public information, external research, standards, or vendor materials;
-- clinical, legal, regulatory, research, or other expert contributions authored by their respective contributors;
-- abstract ideas, methods, systems, or processes to the extent they are not protected by applicable copyright law.
+**Alfatih Abdalla** was engaged by Dr. Elaf Sabri Khalil in a consulting capacity.
+
+His contribution to this repository is limited to:
+
+- repository structure;
+- layered documentation architecture;
+- documentation methodology expression;
+- organisation of the founding materials;
+- product and technical analysis;
+- creation and maintenance of related working documentation.
+
+Contact:
+
+- Email: [Fabdalla782@gmail.com](mailto:Fabdalla782@gmail.com)
+- LinkedIn: [linkedin.com/in/alfatihabdalla](https://www.linkedin.com/in/alfatihabdalla)
+- GitHub: [github.com/fatihg80](https://github.com/fatihg80)
+
+Nothing in this repository should be interpreted as identifying Alfatih Abdalla as the founder, owner, or originator of Sanad.
+
+## Rights Boundary
+
+This notice does not attempt to determine final legal ownership of all Sanad intellectual property.
+
+It preserves the distinction between:
+
+- the Sanad founding concept and Founding Prospectus source attributed to Dr. Elaf Sabri Khalil;
+- consulting documentation work contributed by Alfatih Abdalla;
+- third-party research, standards, vendor material, and future contributor work.
+
+Binding ownership, licensing, contributor IP terms, or any future assignment to a Sanad legal entity remain subject to explicit written agreements and qualified legal review.
 
 ## Licensing
 
-This repository currently does not use this notice as a substitute for a software/documentation licence. Any future licence, contributor agreement, IP assignment, or organisational ownership arrangement should be reviewed and approved explicitly.
+This repository does not currently use this notice as a substitute for a software or documentation licence.
 
-## Project Governance
-
-When new contributors or organisations join the project, the Project Manager should confirm:
-
-1. ownership of pre-existing materials;
-2. ownership/licensing of new contributions;
-3. attribution requirements;
-4. employer or institutional IP obligations;
-5. publication/research authorship rules;
-6. any assignment to a future Sanad legal entity.
-
-These questions should be reviewed with qualified intellectual-property/legal counsel before material external contributions or commercialisation.
+The final repository licence, contributor terms, and any future IP assignment remain open governance decisions under **ER-28 / DEC-014**.
 
 ---
 
-### Documentation Attribution
+### Project & Documentation Attribution
 
-**Documentation framework, repository structure, methodology expression, and original authored contributions:** **Alfatih Abdalla**  
+**Project Founder and Founding Prospectus source:** **Dr. Elaf Sabri Khalil**  
+[Email](mailto:elafsabri515@gmail.com) · [LinkedIn](https://www.linkedin.com/in/elaf-sabri-khalil-68097024a)
+
+**Consulting contributor — repository structure, documentation architecture, methodology expression, and analysis:** **Alfatih Abdalla**  
 [Email](mailto:Fabdalla782@gmail.com) · [LinkedIn](https://www.linkedin.com/in/alfatihabdalla) · [GitHub](https://github.com/fatihg80)
 
-© 2026 Alfatih Abdalla. This attribution applies to Alfatih Abdalla’s original documentation contributions and organizational expression in this repository. Source materials and third-party contributions retain their respective authorship and rights.
+Source materials and third-party contributions retain their respective authorship and rights.
