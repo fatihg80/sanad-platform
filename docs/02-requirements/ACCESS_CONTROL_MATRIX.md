@@ -52,3 +52,11 @@ Legend:
 - break-glass access;
 - export approval workflow;
 - verification approver model.
+
+## Required Expert Review
+
+**Level:** Required before authorisation implementation freeze; blocking before go-live.
+
+**Experts:** Clinical Governance, Security Architect, Privacy/DPO, Operations.
+
+**Review:** minimum necessary access, coordinator visibility, governance access, administrator separation, exports, and break-glass access.
